@@ -1,0 +1,24 @@
+# -*- mode: org -*-
+#+STARTUP: indent hidestars showall
+
+* why I like @zjh08177 solution
+- there is nothing wrong with Akshay's solution
+- but I still feel there is something very elegant about zjh's solution
+
+*Note* I am going to use positive for presence and negative for absence
+
+** separation of concerns
+
+- the map keeps track of how many characters you have seen in the
+  window so far
+
+  - this one is easy to understand, a character enters into the
+    window then you increment its count in the map, when a character
+    leaves the window then you decrement the count
+
+  - from this definition you can see that it is impossible for the
+    map for a character to go below zero since it is impossible to
+
+- the count keeps track of how many times you have gone below zero
+
+  -
