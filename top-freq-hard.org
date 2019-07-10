@@ -70,7 +70,7 @@
 |  480 | Sliding Window Median                                  |      32.9% | Hard       |          |
 |  992 | Subarrays with K Different Integers                    |      45.2% | Hard       |          |
 |  736 | Parse Lisp Expression                                  |      44.2% | Hard       |          |
-|  316 | Remove Duplicate Letters                               |      32.9% | Hard       |          |
+|  316 | Remove Duplicate Letters                               |      32.9% | Hard       | Frankie  |
 |  272 | Closest Binary Search Tree Value II                    |      45.5% | Hard       |          |
 |  895 | Maximum Frequency Stack                                |      56.6% | Hard       |          |
 |  591 | Tag Validator                                          |      33.0% | Hard       |          |
