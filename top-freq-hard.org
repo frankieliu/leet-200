@@ -13,13 +13,13 @@
 |   76 | Minimum Window Substring                               |      31.2% | Hard*      | Akshay   |
 |  297 | Serialize and Deserialize Binary Tree                  |      41.4% | Hard*      | Vandana  |
 |  975 | Odd Even Jump                                          |      47.2% | Hard       | Akshay   |
-|  269 | Alien Dictionary                                       |      31.3% | Hard       | Kiran    |
+|  269 | Alien Dictionary                                       |      31.3% | Hard*      | Kiran    |
 |  336 | Palindrome Pairs                                       |      31.2% | Hard*      | Supreeth |
 |  295 | Find Median from Data Stream                           |      37.2% | Hard*      | Chethana |
-|   10 | Regular Expression Matching                            |      25.4% | Hard       | Vamshi   |
-|  224 | Basic Calculator                                       |      33.1% | Hard       | Diganta  |
+|   10 | Regular Expression Matching                            |      25.4% | Hard*      | Vamshi   |
+|  224 | Basic Calculator                                       |      33.1% | Hard*      | Diganta  |
 |  642 | Design Search Autocomplete System                      |      38.3% | Hard       | Kiran    |
-|  924 | Minimize Malware Spread                                |      40.2% | Hard       | Frankie  |
+|  924 | Minimize Malware Spread                                |      40.2% | Hard*      | Frankie  |
 |   68 | Text Justification                                     |      23.6% | Hard       | Sumit    |
 |   41 | First Missing Positive                                 |      29.1% | Hard       | Mukul    |
 |   85 | Maximal Rectangle                                      |      33.7% | Hard       | Vendana  |
