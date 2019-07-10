@@ -21,7 +21,7 @@
 |  642 | Design Search Autocomplete System                      |      38.3% | Hard       | Kiran    |
 |  924 | Minimize Malware Spread                                |      40.2% | Hard*      | Frankie  |
 |   68 | Text Justification                                     |      23.6% | Hard       | Sumit    |
-|   41 | First Missing Positive                                 |      29.1% | Hard       | Mukul    |
+|   41 | First Missing Positive                                 |      29.1% | Hard*      | Mukul    |
 |   85 | Maximal Rectangle                                      |      33.7% | Hard       | Vendana  |
 |   72 | Edit Distance                                          |      38.2% | Hard       | Chethana |
 |  149 | Max Points on a Line                                   |      15.9% | Hard       | Frankie  |
