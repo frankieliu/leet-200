@@ -28,7 +28,7 @@
 |   25 | Reverse Nodes in k-Group                               |      36.9% | Hard       |          |
 |  829 | Consecutive Numbers Sum                                |      33.5% | Hard       |          |
 |  124 | Binary Tree Maximum Path Sum                           |      30.3% | Hard       |          |
-|  410 | Split Array Largest Sum                                |      42.5% | Hard       |          |
+|  410 | Split Array Largest Sum                                |      42.5% | Hard       | Diganta  |
 |  843 | Guess the Word                                         |      43.8% | Hard       |          |
 |  460 | LFU Cache                                              |      29.1% | Hard       | Bhumir   |
 |  126 | Word Ladder II                                         |      18.1% | Hard       |          |
