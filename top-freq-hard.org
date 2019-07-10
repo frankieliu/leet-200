@@ -37,7 +37,7 @@
 |  239 | Sliding Window Maximum                                 |      38.5% | Hard       |          |
 |  772 | Basic Calculator III                                   |      43.1% | Hard       |          |
 |  158 | Read N Characters Given Read4 II - Call multiple times |      26.7% | Hard       |          |
-|  432 | All O`one Data Structure                               |      29.8% | Hard       |          |
+|  432 | All O`one Data Structure                               |      29.8% | Hard       | Prachi   |
 |   57 | Insert Interval                                        |      31.4% | Hard       |          |
 |   32 | Longest Valid Parentheses                              |      25.7% | Hard       |          |
 |  212 | Word Search II                                         |      29.1% | Hard       |          |
