@@ -1,37 +1,41 @@
-41. Find the smallest missing positive
+# -*- mode: org -*-
+#+STARTUP: indent hidestars showall
 
-The bucket sort idea is ok, but you need to swap things around, so
-I didn't like the idea.
 
-There is another idea.
+* 41. Find the smallest missing positive
 
-1. get rid of all numbers < 1 and > len(array), i.e.
+The bucket sort idea is ok, but you need to swap things around, so I
+didn't like the idea.  Here is another idea.
+
+1. Get rid of all numbers < 1 and > len(array), i.e.
    if nums[i] < 1 or nums[i] > len(array): nums[i] = 0
 
    this means that any left over numbers are between 1 and len(array)
 
-2. this means that if you mod nums[i] by len(array)+1 it will be
+2. This means that if you mod nums[i] by len(array)+1 it will be
    unaffected i.e.
 
    nums[i] % (len(array)+1) == nums[i]
 
-3. like the bucket sort algorithm, we can then "add" this information to the correct bucket without affecting the bucket via:
+3. Like the bucket sort algorithm, we can then "add" this information
+   to the correct bucket without affecting the bucket via:
 
    nums[nums[i] % k] += k
 
    where k is len(array)+1
 
-   that is, we will add a count in multiples of k if we see that number in the
-   array
+   that is, we will add a count in multiples of k if we see that
+   number in the array
 
 4. Finally we get rid of the original number by dividing it out
 
    nums[i] = nums[i] // k
 
-   that is, the original content is gone and I am only left with
-   the information used in the bucket sort
+   that is, the original content is gone and I am only left with the
+   information used in the bucket sort
 
 5. Great no swapping and chasing things around.
+
    Recap:
    1. one loop to get rid of bad numbers
    2. one loop to bucket sort
@@ -39,3 +43,13 @@ There is another idea.
       bucket sort info, and find the smallest element
 
 6. Thanks to @asones for this wonderful solution
+
+7. Another solution would be to mask with int(log(len(array)))+1
+   bits, and put the count above the bits:
+   xxxxxxxxxxx oooooooo
+
+   Use ooooooo region to keep the original identify
+   Use xxxxxxx region to keep the bucket count
+
+   In the end we only care about the xxxxxxx region, so
+   we just >> shift by int(log(len(array))) + 1 bits
