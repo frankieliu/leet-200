@@ -27,16 +27,16 @@
 |  149 | Max Points on a Line                                   |      15.9% | Hard       | Frankie  |
 |   25 | Reverse Nodes in k-Group                               |      36.9% | Hard       | Frankie  |
 |  829 | Consecutive Numbers Sum                                |      33.5% | Hard       | Frankie  |
-|  124 | Binary Tree Maximum Path Sum                           |      30.3% | Hard       | Vamshi   |
+|  124 | Binary Tree Maximum Path Sum                           |      30.3% | Hard*      | Vamshi   |
 |  410 | Split Array Largest Sum                                |      42.5% | Hard       | Diganta  |
-|  843 | Guess the Word                                         |      43.8% | Hard       |          |
+|  843 | Guess the Word                                         |      43.8% | Hard       | Frankie  |
 |  460 | LFU Cache                                              |      29.1% | Hard       | Bhumir   |
-|  126 | Word Ladder II                                         |      18.1% | Hard       |          |
-|  489 | Robot Room Cleaner                                     |      64.9% | Hard       |          |
-|   45 | Jump Game II                                           |      28.3% | Hard       |          |
-|  239 | Sliding Window Maximum                                 |      38.5% | Hard       |          |
-|  772 | Basic Calculator III                                   |      43.1% | Hard       |          |
-|  158 | Read N Characters Given Read4 II - Call multiple times |      26.7% | Hard       |          |
+|  126 | Word Ladder II                                         |      18.1% | Hard       | Frankie  |
+|  489 | Robot Room Cleaner                                     |      64.9% | Hard       | Frankie  |
+|   45 | Jump Game II                                           |      28.3% | Hard       | Frankie  |
+|  239 | Sliding Window Maximum                                 |      38.5% | Hard       | Frankie  |
+|  772 | Basic Calculator III                                   |      43.1% | Hard       | Frankie  |
+|  158 | Read N Characters Given Read4 II - Call multiple times |      26.7% | Hard       | Frankie  |
 |  432 | All O`one Data Structure                               |      29.8% | Hard       | Prachi   |
 |   57 | Insert Interval                                        |      31.4% | Hard       |          |
 |   32 | Longest Valid Parentheses                              |      25.7% | Hard       |          |
