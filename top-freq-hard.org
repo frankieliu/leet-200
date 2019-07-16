@@ -59,7 +59,7 @@
 |  403 | Frog Jump                                              |      36.4% | Hard       | Kiran    |
 |   97 | Interleaving String                                    |      28.3% | Hard       |          |
 |   37 | Sudoku Solver                                          |      37.5% | Hard       | Bhumir   |
-|  140 | Word Break II                                          |      27.6% | Hard       |          |
+|  140 | Word Break II                                          |      27.6% | Hard       | Bhumir   |
 |  753 | Cracking the Safe                                      |      46.6% | Hard       |          |
 |  458 | Poor Pigs                                              |      45.5% | Hard       |          |
 |  296 | Best Meeting Point                                     |      55.1% | Hard       |          |
@@ -86,7 +86,7 @@
 |  828 | Unique Letter String                                   |      39.9% | Hard       |          |
 |  420 | Strong Password Checker                                |      17.1% | Hard       |          |
 |  123 | Best Time to Buy and Sell Stock III                    |      34.0% | Hard       |          |
-|  354 | Russian Doll Envelopes                                 |      34.1% | Hard       |          |
+|  354 | Russian Doll Envelopes                                 |      34.1% | Hard       | Bhumir   |
 |   30 | Substring with Concatenation of All Words              |      23.8% | Hard       |          |
 |  727 | Minimum Window Subsequence                             |      37.6% | Hard       |          |
 | 1032 | Stream of Characters                                   |      41.3% | Hard       |          |
