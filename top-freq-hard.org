@@ -7,12 +7,12 @@
 |------+--------------------------------------------------------+------------+------------+----------|
 |    4 | Median of Two Sorted Arrays                            |      26.6% | Hard*      | Frankie  |
 |   42 | Trapping Rain Water                                    |      43.6% | Hard*      | Frankie  |
-|   23 | Merge k Sorted Lists                                   |      35.0% | Hard       | Frankie  |
+|   23 | Merge k Sorted Lists                                   |      35.0% | Hard*      | Frankie  |
 |  273 | Integer to English Words                               |      24.5% | Hard       | Frankie  |
-|  301 | Remove Invalid Parentheses                             |      39.6% | Hard       | Frankie  |
+|  301 | Remove Invalid Parentheses                             |      39.6% | Hard*      | Frankie  |
 |   76 | Minimum Window Substring                               |      31.2% | Hard*      | Akshay   |
 |  297 | Serialize and Deserialize Binary Tree                  |      41.4% | Hard*      | Vandana  |
-|  975 | Odd Even Jump                                          |      47.2% | Hard       | Akshay   |
+|  975 | Odd Even Jump                                          |      47.2% | Hard*      | Akshay   |
 |  269 | Alien Dictionary                                       |      31.3% | Hard*      | Kiran    |
 |  336 | Palindrome Pairs                                       |      31.2% | Hard*      | Supreeth |
 |  295 | Find Median from Data Stream                           |      37.2% | Hard*      | Chethana |
@@ -45,10 +45,10 @@
 |  317 | Shortest Distance from All Buildings                   |      38.1% | Hard       | Vamshi   |
 |  428 | Serialize and Deserialize N-ary Tree                   |      54.4% | Hard       |          |
 |  340 | Longest Substring with At Most K Distinct Characters   |      40.1% | Hard       | Mukul    |
-|  218 | The Skyline Problem                                    |      31.9% | Hard       | Diganta  |
-|  773 | Sliding Puzzle                                         |      53.1% | Hard       | Akshay   |
+|  218 | The Skyline Problem                                    |      31.9% | Hard*      | Diganta  |
+|  773 | Sliding Puzzle                                         |      53.1% | Hard*      | Akshay   |
 |  329 | Longest Increasing Path in a Matrix                    |      40.3% | Hard       | Mukul    |
-|  741 | Cherry Pickup                                          |      30.1% | Hard       |          |
+|  741 | Cherry Pickup                                          |      30.1% | Hard       | Akshay   |
 |   65 | Valid Number                                           |      14.1% | Hard       | Diganta  |
 |   44 | Wildcard Matching                                      |      23.0% | Hard       |          |
 |  128 | Longest Consecutive Sequence                           |      42.0% | Hard       |          |
