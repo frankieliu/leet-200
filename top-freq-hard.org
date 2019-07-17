@@ -46,7 +46,7 @@
 |  428 | Serialize and Deserialize N-ary Tree                   |      54.4% | Hard       |          |
 |  340 | Longest Substring with At Most K Distinct Characters   |      40.1% | Hard       | Mukul    |
 |  218 | The Skyline Problem                                    |      31.9% | Hard       | Diganta  |
-|  773 | Sliding Puzzle                                         |      53.1% | Hard       |          |
+|  773 | Sliding Puzzle                                         |      53.1% | Hard       | Akshay   |
 |  329 | Longest Increasing Path in a Matrix                    |      40.3% | Hard       | Mukul    |
 |  741 | Cherry Pickup                                          |      30.1% | Hard       |          |
 |   65 | Valid Number                                           |      14.1% | Hard       | Diganta  |
