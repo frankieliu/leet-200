@@ -1,0 +1,17 @@
+# -*- mode: org -*-
+#+STARTUP: indent hidestars showall
+
+
+* 1028. Recover a Tree From Preorder Traversal
+
+use a stack, the idea is that if level of a value is same as stack length, add it as child and push onto stack
+
+1. for each new value, figure out its level
+
+2. keep popping stack till stack height is same as this level
+
+3. if parent does not have left child, add this new node as left child
+
+4. otherwise add as right child
+
+5. push new node onto stack
