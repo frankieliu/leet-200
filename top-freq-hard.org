@@ -136,7 +136,7 @@
 |  233 | Number of Digit One                                    |      30.3% | Hard       |        |
 |  765 | Couples Holding Hands                                  |      51.8% | Hard       |        |
 |  188 | Best Time to Buy and Sell Stock IV                     |      26.5% | Hard       |        |
-|  715 | Range Module                                           |      35.8% | Hard       |        |
+|  715 | Range Module                                           |      35.8% | Hard       | Jack   |
 |  980 | Unique Paths III                                       |      71.3% | Hard       |        |
 |  774 | Minimize Max Distance to Gas Station                   |      42.2% | Hard       |        |
 |  262 | Trips and Users                                        |      25.5% | Hard       |        |

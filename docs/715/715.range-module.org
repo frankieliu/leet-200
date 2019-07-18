@@ -1,0 +1,14 @@
+# -*- mode: org -*-
+#+STARTUP: indent hidestars showall
+
+
+* 715. Range Module
+
+https://leetcode.com/problems/range-module/discuss/169353/Ultra-concise-Python-(only-6-lines-of-actual-code)-(also-236ms-beats-100)
+
+Without treemap support in python, the optimal solution for python involves storing all boundaries in sorted order in a list. In this list, even values are beginnings of intervals and odd ones are closings.
+
+You can use bisect_left and bisect_right to elimnate unneded bounaries when merging and deleting.
+
+When querying, use bisect_right and bisect_left to see if both fall in one of the ranges. Note here you want to use bisect_right for the start and bisect_left for end because you want them to fall in one of the intervals. This is exactly the opposite of merging and deleting, when you want to make sure everything touching is deleted.
+
