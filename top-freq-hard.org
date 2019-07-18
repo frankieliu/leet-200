@@ -43,21 +43,21 @@
 |  212 | Word Search II                                         |      29.1% | Hard       | Kiran    |
 |   51 | N-Queens                                               |      39.9% | Hard       | Vamshi   |
 |  317 | Shortest Distance from All Buildings                   |      38.1% | Hard       | Vamshi   |
-|  428 | Serialize and Deserialize N-ary Tree                   |      54.4% | Hard       |          |
+|  428 | Serialize and Deserialize N-ary Tree                   |      54.4% | Hard       | Frankie  |
 |  340 | Longest Substring with At Most K Distinct Characters   |      40.1% | Hard       | Mukul    |
 |  218 | The Skyline Problem                                    |      31.9% | Hard*      | Diganta  |
 |  773 | Sliding Puzzle                                         |      53.1% | Hard*      | Akshay   |
 |  329 | Longest Increasing Path in a Matrix                    |      40.3% | Hard       | Mukul    |
 |  741 | Cherry Pickup                                          |      30.1% | Hard       | Akshay   |
 |   65 | Valid Number                                           |      14.1% | Hard       | Diganta  |
-|   44 | Wildcard Matching                                      |      23.0% | Hard       |          |
-|  128 | Longest Consecutive Sequence                           |      42.0% | Hard       |          |
-|  759 | Employee Free Time                                     |      61.6% | Hard       |          |
-|  465 | Optimal Account Balancing                              |      43.0% | Hard       |          |
-|  312 | Burst Balloons                                         |      47.6% | Hard       |          |
-|  679 | 24 Game                                                |      43.1% | Hard       |          |
+|   44 | Wildcard Matching                                      |      23.0% | Hard       | Frankie  |
+|  128 | Longest Consecutive Sequence                           |      42.0% | Hard       | Frankie  |
+|  759 | Employee Free Time                                     |      61.6% | Hard       | Frankie  |
+|  465 | Optimal Account Balancing                              |      43.0% | Hard       | Frankie  |
+|  312 | Burst Balloons                                         |      47.6% | Hard       | Frankie  |
+|  679 | 24 Game                                                |      43.1% | Hard       | Frankie  |
 |  403 | Frog Jump                                              |      36.4% | Hard       | Kiran    |
-|   97 | Interleaving String                                    |      28.3% | Hard       |          |
+|   97 | Interleaving String                                    |      28.3% | Hard       | Frankie  |
 |   37 | Sudoku Solver                                          |      37.5% | Hard       | Bhumir   |
 |  140 | Word Break II                                          |      27.6% | Hard       |          |
 |  753 | Cracking the Safe                                      |      46.6% | Hard       |          |
