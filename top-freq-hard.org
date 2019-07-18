@@ -26,7 +26,7 @@
 |   72 | Edit Distance                                          |      38.2% | Hard       | Chethana |
 |  149 | Max Points on a Line                                   |      15.9% | Hard*      | Frankie  |
 |   25 | Reverse Nodes in k-Group                               |      36.9% | Hard*      | Frankie  |
-|  829 | Consecutive Numbers Sum                                |      33.5% | Hard       | Frankie  |
+|  829 | Consecutive Numbers Sum                                |      33.5% | Hard*      | Frankie  |
 |  124 | Binary Tree Maximum Path Sum                           |      30.3% | Hard*      | Vamshi   |
 |  410 | Split Array Largest Sum                                |      42.5% | Hard*      | Diganta  |
 |  843 | Guess the Word                                         |      43.8% | Hard*      | Frankie  |
