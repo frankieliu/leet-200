@@ -8,7 +8,7 @@
 |    4 | Median of Two Sorted Arrays                            |      26.6% | Hard*      | Frankie  |
 |   42 | Trapping Rain Water                                    |      43.6% | Hard*      | Frankie  |
 |   23 | Merge k Sorted Lists                                   |      35.0% | Hard*      | Frankie  |
-|  273 | Integer to English Words                               |      24.5% | Hard       | Frankie  |
+|  273 | Integer to English Words                               |      24.5% | Hard*      | Frankie  |
 |  301 | Remove Invalid Parentheses                             |      39.6% | Hard*      | Frankie  |
 |   76 | Minimum Window Substring                               |      31.2% | Hard*      | Akshay   |
 |  297 | Serialize and Deserialize Binary Tree                  |      41.4% | Hard*      | Vandana  |
@@ -25,13 +25,13 @@
 |   85 | Maximal Rectangle                                      |      33.7% | Hard*      | Vendana  |
 |   72 | Edit Distance                                          |      38.2% | Hard       | Chethana |
 |  149 | Max Points on a Line                                   |      15.9% | Hard*      | Frankie  |
-|   25 | Reverse Nodes in k-Group                               |      36.9% | Hard       | Frankie  |
+|   25 | Reverse Nodes in k-Group                               |      36.9% | Hard*      | Frankie  |
 |  829 | Consecutive Numbers Sum                                |      33.5% | Hard       | Frankie  |
 |  124 | Binary Tree Maximum Path Sum                           |      30.3% | Hard*      | Vamshi   |
-|  410 | Split Array Largest Sum                                |      42.5% | Hard       | Diganta  |
-|  843 | Guess the Word                                         |      43.8% | Hard       | Frankie  |
-|  460 | LFU Cache                                              |      29.1% | Hard       | Bhumir   |
-|  126 | Word Ladder II                                         |      18.1% | Hard       | Frankie  |
+|  410 | Split Array Largest Sum                                |      42.5% | Hard*      | Diganta  |
+|  843 | Guess the Word                                         |      43.8% | Hard*      | Frankie  |
+|  460 | LFU Cache                                              |      29.1% | Hard*      | Bhumir   |
+|  126 | Word Ladder II                                         |      18.1% | Hard*      | Frankie  |
 |  489 | Robot Room Cleaner                                     |      64.9% | Hard       | Frankie  |
 |   45 | Jump Game II                                           |      28.3% | Hard       | Frankie  |
 |  239 | Sliding Window Maximum                                 |      38.5% | Hard       | Frankie  |
