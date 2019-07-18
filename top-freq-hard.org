@@ -150,7 +150,7 @@
 |  321 | Create Maximum Number                                  |      25.5% | Hard       |        |
 |  174 | Dungeon Game                                           |      27.4% | Hard       |        |
 |   52 | N-Queens II                                            |      52.5% | Hard       |        |
-| 1028 | Recover a Tree From Preorder Traversal                 |      70.0% | Hard       |        |
+| 1028 | Recover a Tree From Preorder Traversal                 |      70.0% | Hard       | Jack   |
 |  805 | Split Array With Same Average                          |      24.5% | Hard       |        |
 |  600 | Non-negative Integers without Consecutive Ones         |      32.8% | Hard       |        |
 |  248 | Strobogrammatic Number III                             |      36.8% | Hard       |        |
