@@ -202,7 +202,7 @@
 |  732 | My Calendar III                                        |      55.4% | Hard       |        |
 |  502 | IPO                                                    |      38.1% | Hard       |        |
 | 1074 | Number of Submatrices That Sum to Target               |      58.9% | Hard       |        |
-| 1106 | Parsing A Boolean Expression                           |      59.3% | Hard       |        |
+| 1106 | Parsing A Boolean Expression                           |      59.3% | Hard       |Jack    |
 | 1097 | Game Play Analysis V                                   |      45.0% | Hard       |        |
 | 1095 | Find in Mountain Array                                 |      33.0% | Hard       |        |
 | 1092 | Shortest Common Supersequence                          |      47.7% | Hard       |        |
