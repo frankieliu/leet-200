@@ -60,7 +60,7 @@
 |   97 | Interleaving String                                    |      28.3% | Hard       | Frankie  |
 |   37 | Sudoku Solver                                          |      37.5% | Hard       | Bhumir   |
 |  140 | Word Break II                                          |      27.6% | Hard       |          |
-|  753 | Cracking the Safe                                      |      46.6% | Hard       |          |
+|  753 | Cracking the Safe                                      |      46.6% | Hard       | Vamshi   |
 |  458 | Poor Pigs                                              |      45.5% | Hard       |          |
 |  296 | Best Meeting Point                                     |      55.1% | Hard       |          |
 |   84 | Largest Rectangle in Histogram                         |      31.5% | Hard       |          |
