@@ -66,8 +66,8 @@
 |   84 | Largest Rectangle in Histogram                         |      31.5% | Hard       |          |
 |  315 | Count of Smaller Numbers After Self                    |      38.5% | Hard       |          |
 |  564 | Find the Closest Palindrome                            |      18.9% | Hard       |          |
-|  282 | Expression Add Operators                               |      32.9% | Hard       |          |
-|  480 | Sliding Window Median                                  |      32.9% | Hard       |          |
+|  282 | Expression Add Operators                               |      32.9% | Hard       | Johnny   |
+|  480 | Sliding Window Median                                  |      32.9% | Hard       | Johnny   |
 |  992 | Subarrays with K Different Integers                    |      45.2% | Hard       |          |
 |  736 | Parse Lisp Expression                                  |      44.2% | Hard       |          |
 |  316 | Remove Duplicate Letters                               |      32.9% | Hard       | Frankie  |
