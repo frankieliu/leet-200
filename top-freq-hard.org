@@ -136,7 +136,7 @@
 |  233 | Number of Digit One                                    |      30.3% | Hard       |        |
 |  765 | Couples Holding Hands                                  |      51.8% | Hard       |        |
 |  188 | Best Time to Buy and Sell Stock IV                     |      26.5% | Hard       |        |
-|  715 | Range Module                                           |      35.8% | Hard       |        |
+|  715 | Range Module                                           |      35.8% | Hard       | Jack   |
 |  980 | Unique Paths III                                       |      71.3% | Hard       |        |
 |  774 | Minimize Max Distance to Gas Station                   |      42.2% | Hard       |        |
 |  262 | Trips and Users                                        |      25.5% | Hard       |        |
@@ -150,7 +150,7 @@
 |  321 | Create Maximum Number                                  |      25.5% | Hard       |        |
 |  174 | Dungeon Game                                           |      27.4% | Hard       |        |
 |   52 | N-Queens II                                            |      52.5% | Hard       |        |
-| 1028 | Recover a Tree From Preorder Traversal                 |      70.0% | Hard       |        |
+| 1028 | Recover a Tree From Preorder Traversal                 |      70.0% | Hard       | Jack   |
 |  805 | Split Array With Same Average                          |      24.5% | Hard       |        |
 |  600 | Non-negative Integers without Consecutive Ones         |      32.8% | Hard       |        |
 |  248 | Strobogrammatic Number III                             |      36.8% | Hard       |        |
@@ -202,7 +202,7 @@
 |  732 | My Calendar III                                        |      55.4% | Hard       |        |
 |  502 | IPO                                                    |      38.1% | Hard       |        |
 | 1074 | Number of Submatrices That Sum to Target               |      58.9% | Hard       |        |
-| 1106 | Parsing A Boolean Expression                           |      59.3% | Hard       |        |
+| 1106 | Parsing A Boolean Expression                           |      59.3% | Hard       |Jack    |
 | 1097 | Game Play Analysis V                                   |      45.0% | Hard       |        |
 | 1095 | Find in Mountain Array                                 |      33.0% | Hard       |        |
 | 1092 | Shortest Common Supersequence                          |      47.7% | Hard       |        |

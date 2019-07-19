@@ -1,0 +1,20 @@
+# -*- mode: org -*-
+#+STARTUP: indent hidestars showall
+
+
+* 1106 parse a boolean expression
+
+same as expression evaluation
+use a value stack and an operator stack
+
+iterate though the expression
+
+if it's an operator, put onto operator stack
+if it's (, push onto value stack
+if it's value, convert to boolean and push to value stack
+if it's ), pop operator
+    if operator is !, invert the value, pop (, put value back in
+    if opeator is |, set initial value to False, keep doing or, pop (, put back
+    if opeator is &, set initial value to True, keep doing and, pop (, put back
+   
+return value left in stack
