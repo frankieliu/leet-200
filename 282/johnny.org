@@ -1,0 +1,47 @@
+# -*- mode: org -*-
+#+STARTUP: indent hidestars showall
+
+* order in two levels
+105
+
+* groupings and the operators
+|   1 | op |  0 | op | 5 | -> eval(" ")
+|     |    | 05 |    |   | -> eval(" ")
+|  10 | op |  5 |    |   | -> eval(" ")
+| 105 |    |    |    |   | -> eval(" ")
+
+ *Note* can't considered 05 as a grouping
+
+* tle with eval
+
+* evaluate proactively
+careful with precedence
+a + b * c
+
+@c, (a+b), send -5
+
+undo (a+b) - b
+
+combine b*c
+
+undo the previous element
+last element of recursion
+
+* need to undo in a recursion
+
+a + b * c * d
+
+@d  you have a + b*c
+    but you are actually passing (a + b*c, b*c)
+    then undo a - b*c
+    then multiply *d
+    thed add it back a + (b*c*d)  pass (a+b*c*d, b*c*d)
+
+the first argument is the subtotal, and the second is the last part
+that was added (or substracted), just undo it with a
+
+if you see a '*':
+(arg[0] - arg[1] + arg[1] * next, arg[1] * next)
+
+if you see a '+-':
+(arg[0] + sign*next, sign*next)

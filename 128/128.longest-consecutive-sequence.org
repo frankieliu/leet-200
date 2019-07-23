@@ -1,0 +1,21 @@
+# -*- mode: org -*-
+#+STARTUP: indent hidestars showall
+
+* idea O(n)
+
+1. put all elements in a set
+   1. order and count don't matter
+   2. offer O(1) look up for presence
+
+2. iterate over all elements in the set
+
+3. for each element:
+   1. if it is the smallest in a contiguous sequence, then find how
+      long the sequence is
+
+4. figure if smallest is there is not a next smallest
+
+5. note at most you revisit a number 3x:
+   1. once when you are being looked up
+   2. once when you are being checked by your neighbor
+   3. once when you are being scanned for the longest sequence
