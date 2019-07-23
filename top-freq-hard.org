@@ -59,17 +59,17 @@
 |  403 | Frog Jump                                              |      36.4% | Hard       | Kiran    |
 |   97 | Interleaving String                                    |      28.3% | Hard       | Frankie  |
 |   37 | Sudoku Solver                                          |      37.5% | Hard       | Bhumir   |
-|  140 | Word Break II                                          |      27.6% | Hard       |          |
+|  140 | Word Break II                                          |      27.6% | Hard       | Frankie  |
 |  753 | Cracking the Safe                                      |      46.6% | Hard       | Vamshi   |
-|  458 | Poor Pigs                                              |      45.5% | Hard       |          |
-|  296 | Best Meeting Point                                     |      55.1% | Hard       |          |
-|   84 | Largest Rectangle in Histogram                         |      31.5% | Hard       |          |
-|  315 | Count of Smaller Numbers After Self                    |      38.5% | Hard       |          |
-|  564 | Find the Closest Palindrome                            |      18.9% | Hard       |          |
+|  458 | Poor Pigs                                              |      45.5% | Hard       | Frankie  |
+|  296 | Best Meeting Point                                     |      55.1% | Hard       | Frankie  |
+|   84 | Largest Rectangle in Histogram                         |      31.5% | Hard       | Frankie  |
+|  315 | Count of Smaller Numbers After Self                    |      38.5% | Hard       | Frankie  |
+|  564 | Find the Closest Palindrome                            |      18.9% | Hard       | Frankie  |
 |  282 | Expression Add Operators                               |      32.9% | Hard*      | Johnny   |
 |  480 | Sliding Window Median                                  |      32.9% | Hard       | Johnny   |
-|  992 | Subarrays with K Different Integers                    |      45.2% | Hard       |          |
-|  736 | Parse Lisp Expression                                  |      44.2% | Hard       |          |
+|  992 | Subarrays with K Different Integers                    |      45.2% | Hard       | Frankie  |
+|  736 | Parse Lisp Expression                                  |      44.2% | Hard       | Frankie  |
 |  316 | Remove Duplicate Letters                               |      32.9% | Hard       | Frankie  |
 |  272 | Closest Binary Search Tree Value II                    |      45.5% | Hard       |          |
 |  895 | Maximum Frequency Stack                                |      56.6% | Hard       |          |

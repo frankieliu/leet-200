@@ -1,6 +1,8 @@
 # -*- mode: org -*-
 #+STARTUP: indent hidestars showall
 
+* problem
+find the operators
 * order in two levels
 105
 
