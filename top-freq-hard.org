@@ -71,12 +71,12 @@
 |  992 | Subarrays with K Different Integers                    |      45.2% | Hard       | Frankie  |
 |  736 | Parse Lisp Expression                                  |      44.2% | Hard       | Frankie  |
 |  316 | Remove Duplicate Letters                               |      32.9% | Hard       | Frankie  |
-|  272 | Closest Binary Search Tree Value II                    |      45.5% | Hard       |          |
-|  895 | Maximum Frequency Stack                                |      56.6% | Hard       |          |
-|  591 | Tag Validator                                          |      33.0% | Hard       |          |
-|  887 | Super Egg Drop                                         |      24.9% | Hard       |          |
-|  407 | Trapping Rain Water II                                 |      39.4% | Hard       |          |
-|  588 | Design In-Memory File System                           |      40.2% | Hard       |          |
+|  272 | Closest Binary Search Tree Value II                    |      45.5% | Hard       | Frankie  |
+|  895 | Maximum Frequency Stack                                |      56.6% | Hard       | Frankie  |
+|  591 | Tag Validator                                          |      33.0% | Hard       | Frankie  |
+|  887 | Super Egg Drop                                         |      24.9% | Hard       | Frankie  |
+|  407 | Trapping Rain Water II                                 |      39.4% | Hard       | Frankie  |
+|  588 | Design In-Memory File System                           |      40.2% | Hard       | Frankie  |
 |  440 | K-th Smallest in Lexicographical Order                 |      26.7% | Hard       |          |
 |  135 | Candy                                                  |      28.7% | Hard       |          |
 |  493 | Reverse Pairs                                          |      23.3% | Hard       |          |
