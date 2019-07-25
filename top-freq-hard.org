@@ -78,7 +78,7 @@
 |  407 | Trapping Rain Water II                                 |      39.4% | Hard       | Frankie  |
 |  588 | Design In-Memory File System                           |      40.2% | Hard       | Frankie  |
 |  440 | K-th Smallest in Lexicographical Order                 |      26.7% | Hard       |          |
-|  135 | Candy                                                  |      28.7% | Hard       |          |
+|  135 | Candy                                                  |      28.7% | Hard       | Diganta  |
 |  493 | Reverse Pairs                                          |      23.3% | Hard       |          |
 |  780 | Reaching Points                                        |      27.7% | Hard       |          |
 |   99 | Recover Binary Search Tree                             |      35.0% | Hard       | Vendana  |
@@ -99,7 +99,7 @@
 |  185 | Department Top Three Salaries                          |      26.6% | Hard       |          |
 |  381 | Insert Delete GetRandom O(1) - Duplicates allowed      |      32.1% | Hard       |          |
 |  363 | Max Sum of Rectangle No Larger Than K                  |      35.4% | Hard       |          |
-|  472 | Concatenated Words                                     |      35.3% | Hard       |          |
+|  472 | Concatenated Words                                     |      35.3% | Hard       | Prachi   |
 |  862 | Shortest Subarray with Sum at Least K                  |      22.3% | Hard       |          |
 |  726 | Number of Atoms                                        |      45.0% | Hard       |          |
 |  710 | Random Pick with Blacklist                             |      31.3% | Hard       |          |
