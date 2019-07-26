@@ -48,7 +48,7 @@
 |  218 | The Skyline Problem                                    |      31.9% | Hard*      | Diganta  |
 |  773 | Sliding Puzzle                                         |      53.1% | Hard*      | Akshay   |
 |  329 | Longest Increasing Path in a Matrix                    |      40.3% | Hard       | Mukul    |
-|  741 | Cherry Pickup                                          |      30.1% | Hard       | Akshay   |
+|  741 | Cherry Pickup                                          |      30.1% | Hard       | Johny       |
 |   65 | Valid Number                                           |      14.1% | Hard*      | Diganta  |
 |   44 | Wildcard Matching                                      |      23.0% | Hard       | Frankie  |
 |  128 | Longest Consecutive Sequence                           |      42.0% | Hard       | Frankie  |
@@ -79,11 +79,11 @@
 |  588 | Design In-Memory File System                           |      40.2% | Hard       | Frankie  |
 |  440 | K-th Smallest in Lexicographical Order                 |      26.7% | Hard       |          |
 |  135 | Candy                                                  |      28.7% | Hard*      | Diganta  |
-|  493 | Reverse Pairs                                          |      23.3% | Hard       |          |
-|  780 | Reaching Points                                        |      27.7% | Hard       |          |
+|  493 | Reverse Pairs                                          |      23.3% | Hard       | Akshay   |
+|  780 | Reaching Points                                        |      27.7% | Hard       | Akshay   |
 |   99 | Recover Binary Search Tree                             |      35.0% | Hard       | Vendana  |
 |  770 | Basic Calculator IV                                    |      45.8% | Hard       |          |
-|  828 | Unique Letter String                                   |      39.9% | Hard       |          |
+|  828 | Unique Letter String                                   |      39.9% | Hard       | Akshay   |
 |  420 | Strong Password Checker                                |      17.1% | Hard       |          |
 |  123 | Best Time to Buy and Sell Stock III                    |      34.0% | Hard       |          |
 |  354 | Russian Doll Envelopes                                 |      34.1% | Hard       |          |
@@ -93,7 +93,7 @@
 |  943 | Find the Shortest Superstring                          |      38.4% | Hard       |          |
 |  132 | Palindrome Partitioning II                             |      27.7% | Hard       | Vendana  |
 |  631 | Design Excel Sum Formula                               |      29.4% | Hard       |          |
-|  214 | Shortest Palindrome                                    |      27.8% | Hard       |          |
+|  214 | Shortest Palindrome                                    |      27.8% | Hard       | Diganta  |
 |  352 | Data Stream as Disjoint Intervals                      |      43.7% | Hard       |          |
 | 1000 | Minimum Cost to Merge Stones                           |      32.3% | Hard       |          |
 |  185 | Department Top Three Salaries                          |      26.6% | Hard       |          |
