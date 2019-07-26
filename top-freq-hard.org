@@ -88,7 +88,7 @@
 |  123 | Best Time to Buy and Sell Stock III                    |      34.0% | Hard       |          |
 |  354 | Russian Doll Envelopes                                 |      34.1% | Hard       |          |
 |   30 | Substring with Concatenation of All Words              |      23.8% | Hard       |          |
-|  727 | Minimum Window Subsequence                             |      37.6% | Hard       |          |
+|  727 | Minimum Window Subsequence                             |      37.6% | Hard       | Vamshi         |
 | 1032 | Stream of Characters                                   |      41.3% | Hard       |          |
 |  943 | Find the Shortest Superstring                          |      38.4% | Hard       |          |
 |  132 | Palindrome Partitioning II                             |      27.7% | Hard       | Vendana  |
