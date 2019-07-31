@@ -79,7 +79,7 @@
 |  588 | Design In-Memory File System                           |      40.2% | Hard       | Frankie  |
 |  440 | K-th Smallest in Lexicographical Order                 |      26.7% | Hard       | Frankie  |
 |  135 | Candy                                                  |      28.7% | Hard*      | Diganta  |
-|  493 | Reverse Pairs                                          |      23.3% | Hard       | Akshay   |
+|  493 | Reverse Pairs                                          |      23.3% | Hard*      | Akshay   |
 |  780 | Reaching Points                                        |      27.7% | Hard       | Akshay   |
 |   99 | Recover Binary Search Tree                             |      35.0% | Hard       | Vendana  |
 |  770 | Basic Calculator IV                                    |      45.8% | Hard       |          |
@@ -95,8 +95,8 @@
 |  631 | Design Excel Sum Formula                               |      29.4% | Hard       |          |
 |  214 | Shortest Palindrome                                    |      27.8% | Hard       | Diganta  |
 |  352 | Data Stream as Disjoint Intervals                      |      43.7% | Hard       |          |
-| 1000 | Minimum Cost to Merge Stones                           |      32.3% | Hard       |          |
-|  185 | Department Top Three Salaries                          |      26.6% | Hard       |          |
+| 1000 | Minimum Cost to Merge Stones                           |      32.3% | Hard       | Akshay   |
+|  185 | Department Top Three Salaries                          |      26.6% | Hard       | Akshay   |
 |  381 | Insert Delete GetRandom O(1) - Duplicates allowed      |      32.1% | Hard       |          |
 |  363 | Max Sum of Rectangle No Larger Than K                  |      35.4% | Hard       |          |
 |  472 | Concatenated Words                                     |      35.3% | Hard       | Prachi   |
