@@ -69,7 +69,7 @@
 |  282 | Expression Add Operators                               |      32.9% | Hard*      | Johnny   |
 |  480 | Sliding Window Median                                  |      32.9% | Hard       | Johnny   |
 |  992 | Subarrays with K Different Integers                    |      45.2% | Hard       | Frankie  |
-|  736 | Parse Lisp Expression                                  |      44.2% | Hard       | Frankie  |
+|  736 | Parse Lisp Expression                                  |      44.2% | Hard*      | Frankie  |
 |  316 | Remove Duplicate Letters                               |      32.9% | Hard       | Frankie  |
 |  272 | Closest Binary Search Tree Value II                    |      45.5% | Hard       | Frankie  |
 |  895 | Maximum Frequency Stack                                |      56.6% | Hard       | Frankie  |
@@ -82,13 +82,13 @@
 |  493 | Reverse Pairs                                          |      23.3% | Hard*      | Akshay   |
 |  780 | Reaching Points                                        |      27.7% | Hard       | Akshay   |
 |   99 | Recover Binary Search Tree                             |      35.0% | Hard       | Vendana  |
-|  770 | Basic Calculator IV                                    |      45.8% | Hard       |          |
+|  770 | Basic Calculator IV                                    |      45.8% | Hard       | Frankie  |
 |  828 | Unique Letter String                                   |      39.9% | Hard       | Akshay   |
-|  420 | Strong Password Checker                                |      17.1% | Hard       |          |
+|  420 | Strong Password Checker                                |      17.1% | Hard       | Frankie  |
 |  123 | Best Time to Buy and Sell Stock III                    |      34.0% | Hard       | Vamshi   |
-|  354 | Russian Doll Envelopes                                 |      34.1% | Hard       |          |
-|   30 | Substring with Concatenation of All Words              |      23.8% | Hard       |          |
-|  727 | Minimum Window Subsequence                             |      37.6% | Hard       |          |
+|  354 | Russian Doll Envelopes                                 |      34.1% | Hard       | Frankie  |
+|   30 | Substring with Concatenation of All Words              |      23.8% | Hard       | Frankie  |
+|  727 | Minimum Window Subsequence                             |      37.6% | Hard       | Frankie  |
 | 1032 | Stream of Characters                                   |      41.3% | Hard       |          |
 |  943 | Find the Shortest Superstring                          |      38.4% | Hard       |          |
 |  132 | Palindrome Partitioning II                             |      27.7% | Hard       | Vendana  |
