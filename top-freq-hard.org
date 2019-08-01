@@ -89,7 +89,7 @@
 |  354 | Russian Doll Envelopes                                 |      34.1% | Hard       | Frankie  |
 |   30 | Substring with Concatenation of All Words              |      23.8% | Hard       | Frankie  |
 |  727 | Minimum Window Subsequence                             |      37.6% | Hard       | Frankie  |
-| 1032 | Stream of Characters                                   |      41.3% | Hard       |          |
+| 1032 | Stream of Characters                                   |      41.3% | Hard       | Frankie  |
 |  943 | Find the Shortest Superstring                          |      38.4% | Hard       |          |
 |  132 | Palindrome Partitioning II                             |      27.7% | Hard       | Vendana  |
 |  631 | Design Excel Sum Formula                               |      29.4% | Hard       |          |
