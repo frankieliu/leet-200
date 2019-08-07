@@ -42,7 +42,7 @@
 |   32 | Longest Valid Parentheses                              |      25.7% | Hard*      | Vamshi   |
 |  212 | Word Search II                                         |      29.1% | Hard       | Kiran    |
 |   51 | N-Queens                                               |      39.9% | Hard       | Vamshi   |
-|  317 | Shortest Distance from All Buildings                   |      38.1% | Hard       | Vamshi   |
+|  317 | Shortest Distance from All Buildings                   |      38.1% | Hard*      | Vamshi   |
 |  428 | Serialize and Deserialize N-ary Tree                   |      54.4% | Hard*      | Frankie  |
 |  340 | Longest Substring with At Most K Distinct Characters   |      40.1% | Hard       | Mukul    |
 |  218 | The Skyline Problem                                    |      31.9% | Hard*      | Diganta  |
@@ -60,7 +60,7 @@
 |   97 | Interleaving String                                    |      28.3% | Hard       | Frankie  |
 |   37 | Sudoku Solver                                          |      37.5% | Hard*      | Bhumir   |
 |  140 | Word Break II                                          |      27.6% | Hard       | Frankie  |
-|  753 | Cracking the Safe                                      |      46.6% | Hard       | Frankie  |
+|  753 | Cracking the Safe                                      |      46.6% | Hard*      | Frankie  |
 |  458 | Poor Pigs                                              |      45.5% | Hard*      | Frankie  |
 |  296 | Best Meeting Point                                     |      55.1% | Hard       | Frankie  |
 |   84 | Largest Rectangle in Histogram                         |      31.5% | Hard       | Frankie  |
@@ -76,7 +76,7 @@
 |  591 | Tag Validator                                          |      33.0% | Hard       | Frankie  |
 |  887 | Super Egg Drop                                         |      24.9% | Hard       | Frankie  |
 |  407 | Trapping Rain Water II                                 |      39.4% | Hard       | Frankie  |
-|  588 | Design In-Memory File System                           |      40.2% | Hard       | Frankie  |
+|  588 | Design In-Memory File System                           |      40.2% | Hard*      | Frankie  |
 |  440 | K-th Smallest in Lexicographical Order                 |      26.7% | Hard       | Frankie  |
 |  135 | Candy                                                  |      28.7% | Hard*      | Diganta  |
 |  493 | Reverse Pairs                                          |      23.3% | Hard*      | Akshay   |
@@ -85,12 +85,12 @@
 |  770 | Basic Calculator IV                                    |      45.8% | Hard       | Frankie  |
 |  828 | Unique Letter String                                   |      39.9% | Hard       | Akshay   |
 |  420 | Strong Password Checker                                |      17.1% | Hard       | Frankie  |
-|  123 | Best Time to Buy and Sell Stock III                    |      34.0% | Hard       | Vamshi   |
+|  123 | Best Time to Buy and Sell Stock III                    |      34.0% | Hard*      | Vamshi   |
 |  354 | Russian Doll Envelopes                                 |      34.1% | Hard       | Frankie  |
 |   30 | Substring with Concatenation of All Words              |      23.8% | Hard       | Frankie  |
-|  727 | Minimum Window Subsequence                             |      37.6% | Hard       | Frankie  |
+|  727 | Minimum Window Subsequence                             |      37.6% | Hard       | Vamshi   |
 | 1032 | Stream of Characters                                   |      41.3% | Hard       | Frankie  |
-|  943 | Find the Shortest Superstring                          |      38.4% | Hard       |          |
+|  943 | Find the Shortest Superstring                          |      38.4% | Hard       | Vamshi   |
 |  132 | Palindrome Partitioning II                             |      27.7% | Hard       | Vendana  |
 |  631 | Design Excel Sum Formula                               |      29.4% | Hard       |          |
 |  214 | Shortest Palindrome                                    |      27.8% | Hard       | Diganta  |
@@ -99,11 +99,11 @@
 |  185 | Department Top Three Salaries                          |      26.6% | Hard       | Akshay   |
 |  381 | Insert Delete GetRandom O(1) - Duplicates allowed      |      32.1% | Hard       |          |
 |  363 | Max Sum of Rectangle No Larger Than K                  |      35.4% | Hard       |          |
-|  472 | Concatenated Words                                     |      35.3% | Hard       | Prachi   |
+|  472 | Concatenated Words                                     |      35.3% | Hard*      | Prachi   |
 |  862 | Shortest Subarray with Sum at Least K                  |      22.3% | Hard       |          |
 |  726 | Number of Atoms                                        |      45.0% | Hard       |          |
 |  710 | Random Pick with Blacklist                             |      31.3% | Hard       |          |
-|  857 | Minimum Cost to Hire K Workers                         |      47.6% | Hard       |          |
+|  857 | Minimum Cost to Hire K Workers                         |      47.6% | Hard       | Asif     |
 
 * The next 100
 
@@ -137,7 +137,7 @@
 |  765 | Couples Holding Hands                                  |      51.8% | Hard       |        |
 |  188 | Best Time to Buy and Sell Stock IV                     |      26.5% | Hard       |        |
 |  715 | Range Module                                           |      35.8% | Hard       | Jack   |
-|  980 | Unique Paths III                                       |      71.3% | Hard       |        |
+|  980 | Unique Paths III                                       |      71.3% | Hard       | Mukul  |
 |  774 | Minimize Max Distance to Gas Station                   |      42.2% | Hard       |        |
 |  262 | Trips and Users                                        |      25.5% | Hard       |        |
 |  466 | Count The Repetitions                                  |      27.4% | Hard       |        |
@@ -172,7 +172,7 @@
 |  115 | Distinct Subsequences                                  |      35.3% | Hard       |        |
 |  972 | Equal Rational Numbers                                 |      40.2% | Hard       |        |
 |  305 | Number of Islands II                                   |      41.7% | Hard       |        |
-|  568 | Maximum Vacation Days                                  |      38.3% | Hard       |        |
+|  568 | Maximum Vacation Days                                  |      38.3% | Hard       | Bhumir |
 |  996 | Number of Squareful Arrays                             |      47.6% | Hard       |        |
 |  815 | Bus Routes                                             |      40.4% | Hard       |        |
 |  164 | Maximum Gap                                            |      32.8% | Hard       |        |
@@ -202,7 +202,7 @@
 |  732 | My Calendar III                                        |      55.4% | Hard       |        |
 |  502 | IPO                                                    |      38.1% | Hard       |        |
 | 1074 | Number of Submatrices That Sum to Target               |      58.9% | Hard       |        |
-| 1106 | Parsing A Boolean Expression                           |      59.3% | Hard       |Jack    |
+| 1106 | Parsing A Boolean Expression                           |      59.3% | Hard       | Jack   |
 | 1097 | Game Play Analysis V                                   |      45.0% | Hard       |        |
 | 1095 | Find in Mountain Array                                 |      33.0% | Hard       |        |
 | 1092 | Shortest Common Supersequence                          |      47.7% | Hard       |        |
