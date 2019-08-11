@@ -86,23 +86,23 @@
 |  828 | Unique Letter String                                   |      39.9% | Hard       | Akshay   |
 |  420 | Strong Password Checker                                |      17.1% | Hard       | Frankie  |
 |  123 | Best Time to Buy and Sell Stock III                    |      34.0% | Hard*      | Vamshi   |
-|  354 | Russian Doll Envelopes                                 |      34.1% | Hard       | Frankie  |
+|  354 | Russian Doll Envelopes                                 |      34.1% | Hard*      | Frankie  |
 |   30 | Substring with Concatenation of All Words              |      23.8% | Hard       | Frankie  |
 |  727 | Minimum Window Subsequence                             |      37.6% | Hard       | Vamshi   |
 | 1032 | Stream of Characters                                   |      41.3% | Hard       | Frankie  |
 |  943 | Find the Shortest Superstring                          |      38.4% | Hard       | Vamshi   |
 |  132 | Palindrome Partitioning II                             |      27.7% | Hard       | Vendana  |
-|  631 | Design Excel Sum Formula                               |      29.4% | Hard       |          |
+|  631 | Design Excel Sum Formula                               |      29.4% | Hard       | Frankie  |
 |  214 | Shortest Palindrome                                    |      27.8% | Hard       | Diganta  |
-|  352 | Data Stream as Disjoint Intervals                      |      43.7% | Hard       |          |
+|  352 | Data Stream as Disjoint Intervals                      |      43.7% | Hard       | Frankie  |
 | 1000 | Minimum Cost to Merge Stones                           |      32.3% | Hard       | Akshay   |
 |  185 | Department Top Three Salaries                          |      26.6% | Hard       | Akshay   |
-|  381 | Insert Delete GetRandom O(1) - Duplicates allowed      |      32.1% | Hard       |          |
-|  363 | Max Sum of Rectangle No Larger Than K                  |      35.4% | Hard       |          |
+|  381 | Insert Delete GetRandom O(1) - Duplicates allowed      |      32.1% | Hard       | Frankie  |
+|  363 | Max Sum of Rectangle No Larger Than K                  |      35.4% | Hard       | Frankie  |
 |  472 | Concatenated Words                                     |      35.3% | Hard*      | Prachi   |
-|  862 | Shortest Subarray with Sum at Least K                  |      22.3% | Hard       |          |
-|  726 | Number of Atoms                                        |      45.0% | Hard       |          |
-|  710 | Random Pick with Blacklist                             |      31.3% | Hard       |          |
+|  862 | Shortest Subarray with Sum at Least K                  |      22.3% | Hard       | Frankie  |
+|  726 | Number of Atoms                                        |      45.0% | Hard       | Frankie  |
+|  710 | Random Pick with Blacklist                             |      31.3% | Hard       | Frankie  |
 |  857 | Minimum Cost to Hire K Workers                         |      47.6% | Hard       | Asif     |
 
 * The next 100
