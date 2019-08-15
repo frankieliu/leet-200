@@ -105,7 +105,6 @@
 |  710 | Random Pick with Blacklist                             |      31.3% | Hard*      | Frankie  |
 |  857 | Minimum Cost to Hire K Workers                         |      47.6% | Hard       | Asif     |
 
-
 * The next 100
 
 |    # | Title                                                  | Acceptance | Difficulty | Solver |
