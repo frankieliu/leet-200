@@ -37,7 +37,7 @@
 |  239 | Sliding Window Maximum                                 |      38.5% | Hard       | Frankie  |
 |  772 | Basic Calculator III                                   |      43.1% | Hard       | Frankie  |
 |  158 | Read N Characters Given Read4 II - Call multiple times |      26.7% | Hard       | Frankie  |
-|  432 | All O`one Data Structure                               |      29.8% | Hard       | Prachi   |
+|  432 | All O`one Data Structure                               |      29.8% | Hard*      | Prachi   |
 |   57 | Insert Interval                                        |      31.4% | Hard       | Bhumir   |
 |   32 | Longest Valid Parentheses                              |      25.7% | Hard*      | Vamshi   |
 |  212 | Word Search II                                         |      29.1% | Hard       | Kiran    |
@@ -52,7 +52,7 @@
 |   65 | Valid Number                                           |      14.1% | Hard*      | Diganta  |
 |   44 | Wildcard Matching                                      |      23.0% | Hard       | Frankie  |
 |  128 | Longest Consecutive Sequence                           |      42.0% | Hard       | Frankie  |
-|  759 | Employee Free Time                                     |      61.6% | Hard       | Frankie  |
+|  759 | Employee Free Time                                     |      61.6% | Hard*o     | Bhumir   |
 |  465 | Optimal Account Balancing                              |      43.0% | Hard       | Frankie  |
 |  312 | Burst Balloons                                         |      47.6% | Hard*      | Frankie  |
 |  679 | 24 Game                                                |      43.1% | Hard       | Frankie  |
@@ -92,18 +92,19 @@
 | 1032 | Stream of Characters                                   |      41.3% | Hard       | Frankie  |
 |  943 | Find the Shortest Superstring                          |      38.4% | Hard       | Vamshi   |
 |  132 | Palindrome Partitioning II                             |      27.7% | Hard       | Vendana  |
-|  631 | Design Excel Sum Formula                               |      29.4% | Hard       | Frankie  |
+|  631 | Design Excel Sum Formula                               |      29.4% | Hard*      | Prachi   |
 |  214 | Shortest Palindrome                                    |      27.8% | Hard       | Diganta  |
 |  352 | Data Stream as Disjoint Intervals                      |      43.7% | Hard       | Frankie  |
 | 1000 | Minimum Cost to Merge Stones                           |      32.3% | Hard       | Akshay   |
 |  185 | Department Top Three Salaries                          |      26.6% | Hard       | Akshay   |
 |  381 | Insert Delete GetRandom O(1) - Duplicates allowed      |      32.1% | Hard       | Frankie  |
-|  363 | Max Sum of Rectangle No Larger Than K                  |      35.4% | Hard       | Frankie  |
+|  363 | Max Sum of Rectangle No Larger Than K                  |      35.4% | Hard*      | Frankie  |
 |  472 | Concatenated Words                                     |      35.3% | Hard*      | Prachi   |
-|  862 | Shortest Subarray with Sum at Least K                  |      22.3% | Hard       | Frankie  |
+|  862 | Shortest Subarray with Sum at Least K                  |      22.3% | Hard*      | Frankie  |
 |  726 | Number of Atoms                                        |      45.0% | Hard       | Frankie  |
-|  710 | Random Pick with Blacklist                             |      31.3% | Hard       | Frankie  |
+|  710 | Random Pick with Blacklist                             |      31.3% | Hard*      | Frankie  |
 |  857 | Minimum Cost to Hire K Workers                         |      47.6% | Hard       | Asif     |
+
 
 * The next 100
 
