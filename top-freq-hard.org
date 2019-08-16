@@ -3,107 +3,107 @@
 
 * The first 100
 
-|    # | Title                                                  | Acceptance | Difficulty | Solver   |
-|------+--------------------------------------------------------+------------+------------+----------|
-|    4 | Median of Two Sorted Arrays                            |      26.6% | Hard*      | Frankie  |
-|   42 | Trapping Rain Water                                    |      43.6% | Hard*      | Frankie  |
-|   23 | Merge k Sorted Lists                                   |      35.0% | Hard*      | Frankie  |
-|  273 | Integer to English Words                               |      24.5% | Hard*      | Frankie  |
-|  301 | Remove Invalid Parentheses                             |      39.6% | Hard*      | Frankie  |
-|   76 | Minimum Window Substring                               |      31.2% | Hard*      | Akshay   |
-|  297 | Serialize and Deserialize Binary Tree                  |      41.4% | Hard*      | Vandana  |
-|  975 | Odd Even Jump                                          |      47.2% | Hard*      | Akshay   |
-|  269 | Alien Dictionary                                       |      31.3% | Hard*      | Kiran    |
-|  336 | Palindrome Pairs                                       |      31.2% | Hard*      | Supreeth |
-|  295 | Find Median from Data Stream                           |      37.2% | Hard*      | Chethana |
-|   10 | Regular Expression Matching                            |      25.4% | Hard*      | Vamshi   |
-|  224 | Basic Calculator                                       |      33.1% | Hard*      | Diganta  |
-|  642 | Design Search Autocomplete System                      |      38.3% | Hard*      | Kiran    |
-|  924 | Minimize Malware Spread                                |      40.2% | Hard*      | Frankie  |
-|   68 | Text Justification                                     |      23.6% | Hard       | Sumit    |
-|   41 | First Missing Positive                                 |      29.1% | Hard*      | Mukul    |
-|   85 | Maximal Rectangle                                      |      33.7% | Hard*      | Vendana  |
-|   72 | Edit Distance                                          |      38.2% | Hard       | Chethana |
-|  149 | Max Points on a Line                                   |      15.9% | Hard*      | Frankie  |
-|   25 | Reverse Nodes in k-Group                               |      36.9% | Hard*      | Frankie  |
-|  829 | Consecutive Numbers Sum                                |      33.5% | Hard*      | Frankie  |
-|  124 | Binary Tree Maximum Path Sum                           |      30.3% | Hard*      | Vamshi   |
-|  410 | Split Array Largest Sum                                |      42.5% | Hard*      | Diganta  |
-|  843 | Guess the Word                                         |      43.8% | Hard*      | Frankie  |
-|  460 | LFU Cache                                              |      29.1% | Hard*      | Bhumir   |
-|  126 | Word Ladder II                                         |      18.1% | Hard*      | Frankie  |
-|  489 | Robot Room Cleaner                                     |      64.9% | Hard       | Frankie  |
-|   45 | Jump Game II                                           |      28.3% | Hard       | Frankie  |
-|  239 | Sliding Window Maximum                                 |      38.5% | Hard       | Frankie  |
-|  772 | Basic Calculator III                                   |      43.1% | Hard       | Frankie  |
-|  158 | Read N Characters Given Read4 II - Call multiple times |      26.7% | Hard       | Frankie  |
-|  432 | All O`one Data Structure                               |      29.8% | Hard*      | Prachi   |
-|   57 | Insert Interval                                        |      31.4% | Hard       | Bhumir   |
-|   32 | Longest Valid Parentheses                              |      25.7% | Hard*      | Vamshi   |
-|  212 | Word Search II                                         |      29.1% | Hard       | Kiran    |
-|   51 | N-Queens                                               |      39.9% | Hard       | Vamshi   |
-|  317 | Shortest Distance from All Buildings                   |      38.1% | Hard*      | Vamshi   |
-|  428 | Serialize and Deserialize N-ary Tree                   |      54.4% | Hard*      | Frankie  |
-|  340 | Longest Substring with At Most K Distinct Characters   |      40.1% | Hard       | Mukul    |
-|  218 | The Skyline Problem                                    |      31.9% | Hard*      | Diganta  |
-|  773 | Sliding Puzzle                                         |      53.1% | Hard*      | Akshay   |
-|  329 | Longest Increasing Path in a Matrix                    |      40.3% | Hard       | Mukul    |
-|  741 | Cherry Pickup                                          |      30.1% | Hard       | Johny    |
-|   65 | Valid Number                                           |      14.1% | Hard*      | Diganta  |
-|   44 | Wildcard Matching                                      |      23.0% | Hard       | Frankie  |
-|  128 | Longest Consecutive Sequence                           |      42.0% | Hard       | Frankie  |
-|  759 | Employee Free Time                                     |      61.6% | Hard*o     | Bhumir   |
-|  465 | Optimal Account Balancing                              |      43.0% | Hard       | Frankie  |
-|  312 | Burst Balloons                                         |      47.6% | Hard*      | Frankie  |
-|  679 | 24 Game                                                |      43.1% | Hard       | Frankie  |
-|  403 | Frog Jump                                              |      36.4% | Hard       | Kiran    |
-|   97 | Interleaving String                                    |      28.3% | Hard       | Frankie  |
-|   37 | Sudoku Solver                                          |      37.5% | Hard*      | Bhumir   |
-|  140 | Word Break II                                          |      27.6% | Hard       | Frankie  |
-|  753 | Cracking the Safe                                      |      46.6% | Hard*      | Frankie  |
-|  458 | Poor Pigs                                              |      45.5% | Hard*      | Frankie  |
-|  296 | Best Meeting Point                                     |      55.1% | Hard       | Frankie  |
-|   84 | Largest Rectangle in Histogram                         |      31.5% | Hard       | Frankie  |
-|  315 | Count of Smaller Numbers After Self                    |      38.5% | Hard       | Frankie  |
-|  564 | Find the Closest Palindrome                            |      18.9% | Hard       | Frankie  |
-|  282 | Expression Add Operators                               |      32.9% | Hard*      | Johnny   |
-|  480 | Sliding Window Median                                  |      32.9% | Hard       | Johnny   |
-|  992 | Subarrays with K Different Integers                    |      45.2% | Hard       | Frankie  |
-|  736 | Parse Lisp Expression                                  |      44.2% | Hard*      | Frankie  |
-|  316 | Remove Duplicate Letters                               |      32.9% | Hard       | Frankie  |
-|  272 | Closest Binary Search Tree Value II                    |      45.5% | Hard       | Frankie  |
-|  895 | Maximum Frequency Stack                                |      56.6% | Hard       | Frankie  |
-|  591 | Tag Validator                                          |      33.0% | Hard       | Frankie  |
-|  887 | Super Egg Drop                                         |      24.9% | Hard       | Frankie  |
-|  407 | Trapping Rain Water II                                 |      39.4% | Hard       | Frankie  |
-|  588 | Design In-Memory File System                           |      40.2% | Hard*      | Frankie  |
-|  440 | K-th Smallest in Lexicographical Order                 |      26.7% | Hard       | Frankie  |
-|  135 | Candy                                                  |      28.7% | Hard*      | Diganta  |
-|  493 | Reverse Pairs                                          |      23.3% | Hard*      | Akshay   |
-|  780 | Reaching Points                                        |      27.7% | Hard       | Akshay   |
-|   99 | Recover Binary Search Tree                             |      35.0% | Hard       | Vendana  |
-|  770 | Basic Calculator IV                                    |      45.8% | Hard       | Frankie  |
-|  828 | Unique Letter String                                   |      39.9% | Hard       | Akshay   |
-|  420 | Strong Password Checker                                |      17.1% | Hard       | Frankie  |
-|  123 | Best Time to Buy and Sell Stock III                    |      34.0% | Hard*      | Vamshi   |
-|  354 | Russian Doll Envelopes                                 |      34.1% | Hard*      | Frankie  |
-|   30 | Substring with Concatenation of All Words              |      23.8% | Hard       | Frankie  |
-|  727 | Minimum Window Subsequence                             |      37.6% | Hard       | Vamshi   |
-| 1032 | Stream of Characters                                   |      41.3% | Hard       | Frankie  |
-|  943 | Find the Shortest Superstring                          |      38.4% | Hard       | Vamshi   |
-|  132 | Palindrome Partitioning II                             |      27.7% | Hard       | Vendana  |
-|  631 | Design Excel Sum Formula                               |      29.4% | Hard*      | Prachi   |
-|  214 | Shortest Palindrome                                    |      27.8% | Hard       | Diganta  |
-|  352 | Data Stream as Disjoint Intervals                      |      43.7% | Hard       | Frankie  |
-| 1000 | Minimum Cost to Merge Stones                           |      32.3% | Hard       | Akshay   |
-|  185 | Department Top Three Salaries                          |      26.6% | Hard       | Akshay   |
-|  381 | Insert Delete GetRandom O(1) - Duplicates allowed      |      32.1% | Hard       | Frankie  |
-|  363 | Max Sum of Rectangle No Larger Than K                  |      35.4% | Hard*      | Frankie  |
-|  472 | Concatenated Words                                     |      35.3% | Hard*      | Prachi   |
-|  862 | Shortest Subarray with Sum at Least K                  |      22.3% | Hard*      | Frankie  |
-|  726 | Number of Atoms                                        |      45.0% | Hard       | Frankie  |
-|  710 | Random Pick with Blacklist                             |      31.3% | Hard*      | Frankie  |
-|  857 | Minimum Cost to Hire K Workers                         |      47.6% | Hard       | Asif     |
+|    # | Title                                      | Accep | Diff   | Solver   |
+|------+--------------------------------------------+-------+--------+----------|
+|    4 | Median of Two Sorted Arrays                | 26.6% | Hard*  | Frankie  |
+|   42 | Trapping Rain Water                        | 43.6% | Hard*  | Frankie  |
+|   23 | Merge k Sorted Lists                       | 35.0% | Hard*  | Frankie  |
+|  273 | Integer to English Words                   | 24.5% | Hard*  | Frankie  |
+|  301 | Remove Invalid Parentheses                 | 39.6% | Hard*  | Frankie  |
+|   76 | Minimum Window Substring                   | 31.2% | Hard*  | Akshay   |
+|  297 | Serialize and Deserialize Binary Tree      | 41.4% | Hard*  | Vandana  |
+|  975 | Odd Even Jump                              | 47.2% | Hard*  | Akshay   |
+|  269 | Alien Dictionary                           | 31.3% | Hard*  | Kiran    |
+|  336 | Palindrome Pairs                           | 31.2% | Hard*  | Supreeth |
+|  295 | Find Median from Data Stream               | 37.2% | Hard*  | Chethana |
+|   10 | Regular Expression Matching                | 25.4% | Hard*  | Vamshi   |
+|  224 | Basic Calculator                           | 33.1% | Hard*  | Diganta  |
+|  642 | Design Search Autocomplete System          | 38.3% | Hard*  | Kiran    |
+|  924 | Minimize Malware Spread                    | 40.2% | Hard*  | Frankie  |
+|   68 | Text Justification                         | 23.6% | Hard   | Sumit    |
+|   41 | First Missing Positive                     | 29.1% | Hard*  | Mukul    |
+|   85 | Maximal Rectangle                          | 33.7% | Hard*  | Vendana  |
+|   72 | Edit Distance                              | 38.2% | Hard   | Chethana |
+|  149 | Max Points on a Line                       | 15.9% | Hard*  | Frankie  |
+|   25 | Reverse Nodes in k-Group                   | 36.9% | Hard*  | Frankie  |
+|  829 | Consecutive Numbers Sum                    | 33.5% | Hard*  | Frankie  |
+|  124 | Binary Tree Maximum Path Sum               | 30.3% | Hard*  | Vamshi   |
+|  410 | Split Array Largest Sum                    | 42.5% | Hard*  | Diganta  |
+|  843 | Guess the Word                             | 43.8% | Hard*  | Frankie  |
+|  460 | LFU Cache                                  | 29.1% | Hard*  | Bhumir   |
+|  126 | Word Ladder II                             | 18.1% | Hard*  | Frankie  |
+|  489 | Robot Room Cleaner                         | 64.9% | Hard   | Frankie  |
+|   45 | Jump Game II                               | 28.3% | Hard   | Frankie  |
+|  239 | Sliding Window Maximum                     | 38.5% | Hard   | Frankie  |
+|  772 | Basic Calculator III                       | 43.1% | Hard   | Frankie  |
+|  158 | ReadN Chars Given Read4 II-Call mult times | 26.7% | Hard   | Frankie  |
+|  432 | All O`one Data Structure                   | 29.8% | Hard*  | Prachi   |
+|   57 | Insert Interval                            | 31.4% | Hard   | Bhumir   |
+|   32 | Longest Valid Parentheses                  | 25.7% | Hard*  | Vamshi   |
+|  212 | Word Search II                             | 29.1% | Hard   | Kiran    |
+|   51 | N-Queens                                   | 39.9% | Hard   | Vamshi   |
+|  317 | Shortest Distance from All Buildings       | 38.1% | Hard*  | Vamshi   |
+|  428 | Serialize and Deserialize N-ary Tree       | 54.4% | Hard*  | Frankie  |
+|  340 | Longest Substring with At Most K Dist Char | 40.1% | Hard   | Mukul    |
+|  218 | The Skyline Problem                        | 31.9% | Hard*  | Diganta  |
+|  773 | Sliding Puzzle                             | 53.1% | Hard*  | Akshay   |
+|  329 | Longest Increasing Path in a Matrix        | 40.3% | Hard   | Mukul    |
+|  741 | Cherry Pickup                              | 30.1% | Hard*  | Johny    |
+|   65 | Valid Number                               | 14.1% | Hard*  | Diganta  |
+|   44 | Wildcard Matching                          | 23.0% | Hard   | Frankie  |
+|  128 | Longest Consecutive Sequence               | 42.0% | Hard   | Frankie  |
+|  759 | Employee Free Time                         | 61.6% | Hard*o | Bhumir   |
+|  465 | Optimal Account Balancing                  | 43.0% | Hard   | Frankie  |
+|  312 | Burst Balloons                             | 47.6% | Hard*  | Frankie  |
+|  679 | 24 Game                                    | 43.1% | Hard   | Frankie  |
+|  403 | Frog Jump                                  | 36.4% | Hard   | Kiran    |
+|   97 | Interleaving String                        | 28.3% | Hard   | Frankie  |
+|   37 | Sudoku Solver                              | 37.5% | Hard*  | Bhumir   |
+|  140 | Word Break II                              | 27.6% | Hard   | Frankie  |
+|  753 | Cracking the Safe                          | 46.6% | Hard*  | Frankie  |
+|  458 | Poor Pigs                                  | 45.5% | Hard*  | Frankie  |
+|  296 | Best Meeting Point                         | 55.1% | Hard   | Frankie  |
+|   84 | Largest Rectangle in Histogram             | 31.5% | Hard   | Frankie  |
+|  315 | Count of Smaller Numbers After Self        | 38.5% | Hard   | Frankie  |
+|  564 | Find the Closest Palindrome                | 18.9% | Hard   | Frankie  |
+|  282 | Expression Add Operators                   | 32.9% | Hard*  | Johnny   |
+|  480 | Sliding Window Median                      | 32.9% | Hard   | Johnny   |
+|  992 | Subarrays with K Different Integers        | 45.2% | Hard   | Frankie  |
+|  736 | Parse Lisp Expression                      | 44.2% | Hard*  | Frankie  |
+|  316 | Remove Duplicate Letters                   | 32.9% | Hard   | Frankie  |
+|  272 | Closest Binary Search Tree Value II        | 45.5% | Hard   | Frankie  |
+|  895 | Maximum Frequency Stack                    | 56.6% | Hard   | Frankie  |
+|  591 | Tag Validator                              | 33.0% | Hard   | Frankie  |
+|  887 | Super Egg Drop                             | 24.9% | Hard   | Frankie  |
+|  407 | Trapping Rain Water II                     | 39.4% | Hard   | Frankie  |
+|  588 | Design In-Memory File System               | 40.2% | Hard*  | Frankie  |
+|  440 | K-th Smallest in Lexicographical Order     | 26.7% | Hard   | Frankie  |
+|  135 | Candy                                      | 28.7% | Hard*  | Diganta  |
+|  493 | Reverse Pairs                              | 23.3% | Hard*  | Akshay   |
+|  780 | Reaching Points                            | 27.7% | Hard   | Akshay   |
+|   99 | Recover Binary Search Tree                 | 35.0% | Hard   | Vendana  |
+|  770 | Basic Calculator IV                        | 45.8% | Hard   | Frankie  |
+|  828 | Unique Letter String                       | 39.9% | Hard   | Akshay   |
+|  420 | Strong Password Checker                    | 17.1% | Hard   | Frankie  |
+|  123 | Best Time to Buy and Sell Stock III        | 34.0% | Hard*  | Vamshi   |
+|  354 | Russian Doll Envelopes                     | 34.1% | Hard*  | Frankie  |
+|   30 | Substring with Concatenation of All Words  | 23.8% | Hard   | Frankie  |
+|  727 | Minimum Window Subsequence                 | 37.6% | Hard   | Vamshi   |
+| 1032 | Stream of Characters                       | 41.3% | Hard   | Frankie  |
+|  943 | Find the Shortest Superstring              | 38.4% | Hard*  | Vamshi   |
+|  132 | Palindrome Partitioning II                 | 27.7% | Hard   | Vendana  |
+|  631 | Design Excel Sum Formula                   | 29.4% | Hard*  | Prachi   |
+|  214 | Shortest Palindrome                        | 27.8% | Hard*  | Diganta  |
+|  352 | Data Stream as Disjoint Intervals          | 43.7% | Hard   | Frankie  |
+| 1000 | Minimum Cost to Merge Stones               | 32.3% | Hard   | Akshay   |
+|  185 | Department Top Three Salaries              | 26.6% | Hard   | Akshay   |
+|  381 | Insert Delete GetRandom O(1)-Dupl allowed  | 32.1% | Hard   | Frankie  |
+|  363 | Max Sum of Rectangle No Larger Than K      | 35.4% | Hard*  | Frankie  |
+|  472 | Concatenated Words                         | 35.3% | Hard*  | Prachi   |
+|  862 | Shortest Subarray with Sum at Least K      | 22.3% | Hard*  | Frankie  |
+|  726 | Number of Atoms                            | 45.0% | Hard   | Frankie  |
+|  710 | Random Pick with Blacklist                 | 31.3% | Hard*  | Frankie  |
+|  857 | Minimum Cost to Hire K Workers             | 47.6% | Hard*  | Asif     |
 
 * The next 100
 
@@ -240,3 +240,588 @@
 |  479 | Largest Palindrome Product                             |      27.5% | Hard       |        |
 |  446 | Arithmetic Slices II - Subsequence                     |      30.4% | Hard       |        |
 |  411 | Minimum Unique Word Abbreviation                       |      35.1% | Hard       |        |
+
+#+begin_src emacs-lisp
+  (fset
+   'join1
+   (lambda (&optional arg) "Keyboard macro."  (interactive "p")
+     (kmacro-exec-ring-item
+      (quote
+       ([
+         106 48 105 124 32 escape 65 124 32 74 backspace escape
+         74 102 37 66 105 124 32 escape 87 87 105 124 32 escape
+         65 124 113 backspace escape
+         ] 0 "%d")) arg)))
+#+end_src
+
+#+NAME: table1
+|    # | Title                                                     | Accpt | Diff   |
+|------+-----------------------------------------------------------+-------+--------|
+|    1 | Two Sum                                                   | 44.4% | Easy   |
+|  410 | Split Array Largest Sum                                   | 42.8% | Hard   |
+|  975 | Odd Even Jump                                             | 46.3% | Hard   |
+| 1057 | Campus Bikes                                              | 58.4% | Medium |
+|  222 | Count Complete Tree Nodes                                 | 35.8% | Medium |
+|  843 | Guess the Word                                            | 44.4% | Hard   |
+|  753 | Cracking the Safe                                         | 47.5% | Hard   |
+|  947 | Most Stones Removed with Same Row or Column               | 54.4% | Medium |
+|  929 | Unique Email Addresses                                    | 69.4% | Easy   |
+|  482 | License Key Formatting                                    | 41.3% | Easy   |
+|  489 | Robot Room Cleaner                                        | 65.7% | Hard   |
+|  913 | Cat and Mouse                                             | 29.1% | Hard   |
+| 1066 | Campus Bikes II                                           | 49.6% | Medium |
+|  844 | Backspace String Compare                                  | 46.5% | Easy   |
+| 1096 | Brace Expansion II                                        | 55.8% | Hard   |
+|  359 | Logger Rate Limiter                                       | 66.1% | Easy   |
+|    4 | Median of Two Sorted Arrays                               | 27.1% | Hard   |
+|  158 | Read N Characters Given Read4 II - Call multiple times    | 27.4% | Hard   |
+|  833 | Find And Replace in String                                | 47.3% | Medium |
+|  200 | Number of Islands                                         | 42.5% | Medium |
+|    2 | Add Two Numbers                                           | 31.6% | Medium |
+|  809 | Expressive Words                                          | 44.2% | Medium |
+|  524 | Longest Word in Dictionary through Deleting               | 46.4% | Medium |
+| 1007 | Minimum Domino Rotations For Equal Row                    | 48.9% | Medium |
+|  353 | Design Snake Game                                         | 31.2% | Medium |
+| 1055 | Shortest Way to Form String                               | 58.7% | Medium |
+|  818 | Race Car                                                  | 35.8% | Hard   |
+|   56 | Merge Intervals                                           | 36.3% | Medium |
+|  163 | Missing Ranges                                            | 23.4% | Medium |
+|  963 | Minimum Area Rectangle II                                 | 46.4% | Medium |
+| 1011 | Capacity To Ship Packages Within D Days                   | 53.8% | Medium |
+|  399 | Evaluate Division                                         | 48.3% | Medium |
+|  939 | Minimum Area Rectangle                                    | 51.1% | Medium |
+|  247 | Strobogrammatic Number II                                 | 45.1% | Medium |
+|  731 | My Calendar II                                            | 45.6% | Medium |
+|  246 | Strobogrammatic Number                                    | 42.8% | Easy   |
+|  642 | Design Search Autocomplete System                         | 39.1% | Hard   |
+|  253 | Meeting Rooms II                                          | 43.4% | Medium |
+|  299 | Bulls and Cows                                            | 40.2% | Easy   |
+|  465 | Optimal Account Balancing                                 | 43.4% | Hard   |
+|   57 | Insert Interval                                           | 31.6% | Hard   |
+| 1032 | Stream of Characters                                      | 42.4% | Hard   |
+|  857 | Minimum Cost to Hire K Workers                            | 48.1% | Hard   |
+| 1087 | Brace Expansion                                           | 59.4% | Medium |
+|  943 | Find the Shortest Superstring                             | 38.6% | Hard   |
+|  241 | Different Ways to Add Parentheses                         | 51.1% | Medium |
+|   15 | 3Sum                                                      | 24.6% | Medium |
+|   42 | Trapping Rain Water                                       | 44.2% | Hard   |
+|  900 | RLE Iterator                                              | 50.8% | Medium |
+|  981 | Time Based Key-Value Store                                | 51.4% | Medium |
+|  743 | Network Delay Time                                        | 43.3% | Medium |
+|  248 | Strobogrammatic Number III                                | 37.2% | Hard   |
+|  351 | Android Unlock Patterns                                   | 46.5% | Medium |
+|  679 | 24 Game                                                   | 43.5% | Hard   |
+|  837 | New 21 Game                                               | 32.2% | Medium |
+|  904 | Fruit Into Baskets                                        | 41.8% | Medium |
+|  334 | Increasing Triplet Subsequence                            | 39.5% | Medium |
+|  315 | Count of Smaller Numbers After Self                       | 38.9% | Hard   |
+|  394 | Decode String                                             | 45.9% | Medium |
+|  354 | Russian Doll Envelopes                                    | 34.3% | Hard   |
+|  771 | Jewels and Stones                                         | 83.5% | Easy   |
+|  124 | Binary Tree Maximum Path Sum                              | 30.7% | Hard   |
+|  710 | Random Pick with Blacklist                                | 32.0% | Hard   |
+|  788 | Rotated Digits                                            | 55.0% | Easy   |
+|  329 | Longest Increasing Path in a Matrix                       | 40.7% | Hard   |
+|  660 | Remove 9                                                  | 52.2% | Hard   |
+|  767 | Reorganize String                                         | 43.5% | Medium |
+|  425 | Word Squares                                              | 45.1% | Hard   |
+|  734 | Sentence Similarity                                       | 40.9% | Easy   |
+|  205 | Isomorphic Strings                                        | 37.9% | Easy   |
+|  708 | Insert into a Cyclic Sorted List                          | 29.8% | Medium |
+|  388 | Longest Absolute File Path                                | 39.5% | Medium |
+|  727 | Minimum Window Subsequence                                | 38.0% | Hard   |
+|  375 | Guess Number Higher or Lower II                           | 38.3% | Medium |
+|  736 | Parse Lisp Expression                                     | 44.8% | Hard   |
+|  616 | Add Bold Tag in String                                    | 39.8% | Medium |
+|  308 | Range Sum Query 2D - Mutable                              | 32.8% | Hard   |
+|  777 | Swap Adjacent in LR String                                | 33.6% | Medium |
+|  304 | Range Sum Query 2D - Immutable                            | 33.5% | Medium |
+|  288 | Unique Word Abbreviation                                  | 20.4% | Medium |
+|    3 | Longest Substring Without Repeating Characters            | 28.7% | Medium |
+|  846 | Hand of Straights                                         | 49.8% | Medium |
+|  774 | Minimize Max Distance to Gas Station                      | 42.8% | Hard   |
+|  987 | Vertical Order Traversal of a Binary Tree                 | 32.1% | Medium |
+|  218 | The Skyline Problem                                       | 32.2% | Hard   |
+|  840 | Magic Squares In Grid                                     | 36.0% | Easy   |
+|  853 | Car Fleet                                                 | 40.4% | Medium |
+|   34 | Find First and Last Position of Element in Sorted Array   | 34.0% | Medium |
+|  911 | Online Election                                           | 47.8% | Medium |
+| 1048 | Longest String Chain                                      | 49.0% | Medium |
+|  458 | Poor Pigs                                                 | 46.0% | Hard   |
+|  527 | Word Abbreviation                                         | 51.1% | Hard   |
+|  346 | Moving Average from Data Stream                           | 67.1% | Easy   |
+|  128 | Longest Consecutive Sequence                              | 42.4% | Hard   |
+|   10 | Regular Expression Matching                               | 25.6% | Hard   |
+|  973 | K Closest Points to Origin                                | 61.5% | Medium |
+|  271 | Encode and Decode Strings                                 | 27.5% | Medium |
+|  855 | Exam Room                                                 | 39.2% | Medium |
+|    5 | Longest Palindromic Substring                             | 27.8% | Medium |
+|  146 | LRU Cache                                                 | 26.8% | Medium |
+| 1036 | Escape a Large Maze                                       | 35.2% | Hard   |
+|  686 | Repeated String Match                                     | 31.6% | Easy   |
+|  552 | Student Attendance Record II                              | 33.7% | Hard   |
+|  340 | Longest Substring with At Most K Distinct Characters      | 40.6% | Hard   |
+|  393 | UTF-8 Validation                                          | 36.3% | Medium |
+|  685 | Redundant Connection II                                   | 31.0% | Hard   |
+|  366 | Find Leaves of Binary Tree                                | 66.9% | Medium |
+|   44 | Wildcard Matching                                         | 23.2% | Hard   |
+|  621 | Task Scheduler                                            | 46.1% | Medium |
+|  159 | Longest Substring with At Most Two Distinct Characters    | 47.6% | Hard   |
+|  497 | Random Point in Non-overlapping Rectangles                | 36.0% | Medium |
+| 1110 | Delete Nodes And Return Forest                            | 63.1% | Medium |
+|  544 | Output Contest Matches                                    | 73.8% | Medium |
+|  428 | Serialize and Deserialize N-ary Tree                      | 55.0% | Hard   |
+|  871 | Minimum Number of Refueling Stops                         | 29.8% | Hard   |
+|  298 | Binary Tree Longest Consecutive Sequence                  | 44.6% | Medium |
+|  221 | Maximal Square                                            | 33.8% | Medium |
+|  137 | Single Number II                                          | 46.8% | Medium |
+|  528 | Random Pick with Weight                                   | 43.0% | Medium |
+|   85 | Maximal Rectangle                                         | 34.2% | Hard   |
+|  155 | Min Stack                                                 | 38.3% | Easy   |
+|  277 | Find the Celebrity                                        | 37.8% | Medium |
+|  490 | The Maze                                                  | 48.3% | Medium |
+|  280 | Wiggle Sort                                               | 61.5% | Medium |
+|  297 | Serialize and Deserialize Binary Tree                     | 42.1% | Hard   |
+|  941 | Valid Mountain Array                                      | 35.4% | Easy   |
+|  208 | Implement Trie (Prefix Tree)                              | 39.9% | Medium |
+|  139 | Word Break                                                | 36.2% | Medium |
+|  839 | Similar String Groups                                     | 35.3% | Hard   |
+|   55 | Jump Game                                                 | 32.4% | Medium |
+|  363 | Max Sum of Rectangle No Larger Than K                     | 35.5% | Hard   |
+|  117 | Populating Next Right Pointers in Each Node II            | 35.2% | Medium |
+|  742 | Closest Leaf in a Binary Tree                             | 40.1% | Medium |
+| 1047 | Remove All Adjacent Duplicates In String                  | 63.8% | Easy   |
+|  317 | Shortest Distance from All Buildings                      | 38.6% | Hard   |
+|   76 | Minimum Window Substring                                  | 31.6% | Hard   |
+|  609 | Find Duplicate File in System                             | 56.1% | Medium |
+|  403 | Frog Jump                                                 | 36.8% | Hard   |
+|  406 | Queue Reconstruction by Height                            | 60.6% | Medium |
+|  133 | Clone Graph                                               | 27.8% | Medium |
+|  149 | Max Points on a Line                                      | 16.0% | Hard   |
+| 1091 | Shortest Path in Binary Matrix                            | 36.5% | Medium |
+|   31 | Next Permutation                                          | 30.9% | Medium |
+|  150 | Evaluate Reverse Polish Notation                          | 33.0% | Medium |
+|  551 | Student Attendance Record I                               | 45.5% | Easy   |
+|  951 | Flip Equivalent Binary Trees                              | 64.8% | Medium |
+|  261 | Graph Valid Tree                                          | 40.3% | Medium |
+|  210 | Course Schedule II                                        | 35.9% | Medium |
+|  380 | Insert Delete GetRandom O(1)                              | 43.5% | Medium |
+|  157 | Read N Characters Given Read4                             | 30.3% | Easy   |
+|  498 | Diagonal Traverse                                         | 45.7% | Medium |
+|  148 | Sort List                                                 | 36.7% | Medium |
+|  238 | Product of Array Except Self                              | 56.1% | Medium |
+|  126 | Word Ladder II                                            | 18.5% | Hard   |
+|  132 | Palindrome Partitioning II                                | 28.1% | Hard   |
+|  821 | Shortest Distance to a Character                          | 64.0% | Easy   |
+|  737 | Sentence Similarity II                                    | 43.9% | Medium |
+|  714 | Best Time to Buy and Sell Stock with Transaction Fee      | 51.2% | Medium |
+|  977 | Squares of a Sorted Array                                 | 71.8% | Easy   |
+|  659 | Split Array into Consecutive Subsequences                 | 41.2% | Medium |
+|  385 | Mini Parser                                               | 32.3% | Medium |
+|  773 | Sliding Puzzle                                            | 53.6% | Hard   |
+|  281 | Zigzag Iterator                                           | 56.4% | Medium |
+|  438 | Find All Anagrams in a String                             | 38.0% | Medium |
+|  849 | Maximize Distance to Closest Person                       | 41.4% | Easy   |
+|  979 | Distribute Coins in Binary Tree                           | 67.7% | Medium |
+|  702 | Search in a Sorted Array of Unknown Size                  | 60.6% | Medium |
+|   11 | Container With Most Water                                 | 46.1% | Medium |
+|  215 | Kth Largest Element in an Array                           | 49.3% | Medium |
+|   53 | Maximum Subarray                                          | 44.3% | Easy   |
+|  101 | Symmetric Tree                                            | 44.1% | Easy   |
+|  347 | Top K Frequent Elements                                   | 56.1% | Medium |
+|  296 | Best Meeting Point                                        | 55.7% | Hard   |
+| 1024 | Video Stitching                                           | 47.0% | Medium |
+|  386 | Lexicographical Numbers                                   | 47.4% | Medium |
+|  332 | Reconstruct Itinerary                                     | 32.3% | Medium |
+|  459 | Repeated Substring Pattern                                | 40.4% | Easy   |
+|  212 | Word Search II                                            | 29.6% | Hard   |
+|  243 | Shortest Word Distance                                    | 58.1% | Easy   |
+|  300 | Longest Increasing Subsequence                            | 41.2% | Medium |
+|  681 | Next Closest Time                                         | 43.0% | Medium |
+|  185 | Department Top Three Salaries                             | 27.5% | Hard   |
+|  379 | Design Phone Directory                                    | 42.7% | Medium |
+|  175 | Combine Two Tables                                        | 53.6% | Easy   |
+|  344 | Reverse String                                            | 63.8% | Easy   |
+|  130 | Surrounded Regions                                        | 23.6% | Medium |
+|  766 | Toeplitz Matrix                                           | 62.4% | Easy   |
+|   22 | Generate Parentheses                                      | 56.5% | Medium |
+|  392 | Is Subsequence                                            | 47.4% | Easy   |
+|  802 | Find Eventual Safe States                                 | 44.9% | Medium |
+|  535 | Encode and Decode TinyURL                                 | 77.4% | Medium |
+|   17 | Letter Combinations of a Phone Number                     | 42.6% | Medium |
+|  156 | Binary Tree Upside Down                                   | 51.8% | Medium |
+|   66 | Plus One                                                  | 41.6% | Easy   |
+|  992 | Subarrays with K Different Integers                       | 44.9% | Hard   |
+|  505 | The Maze II                                               | 44.9% | Medium |
+|  480 | Sliding Window Median                                     | 33.4% | Hard   |
+|   30 | Substring with Concatenation of All Words                 | 24.0% | Hard   |
+|   28 | Implement strStr()                                        | 32.7% | Easy   |
+|  269 | Alien Dictionary                                          | 31.9% | Hard   |
+|  127 | Word Ladder                                               | 25.1% | Medium |
+|  518 | Coin Change 2                                             | 43.7% | Medium |
+|  997 | Find the Town Judge                                       | 49.5% | Easy   |
+|  980 | Unique Paths III                                          | 71.2% | Hard   |
+|  171 | Excel Sheet Column Number                                 | 52.1% | Easy   |
+|  382 | Linked List Random Node                                   | 49.8% | Medium |
+|  188 | Best Time to Buy and Sell Stock IV                        | 26.7% | Hard   |
+|  935 | Knight Dialer                                             | 41.8% | Medium |
+|   72 | Edit Distance                                             | 39.0% | Hard   |
+|  486 | Predict the Winner                                        | 47.0% | Medium |
+|   54 | Spiral Matrix                                             | 31.1% | Medium |
+|  252 | Meeting Rooms                                             | 52.6% | Easy   |
+|  239 | Sliding Window Maximum                                    | 39.0% | Hard   |
+|  540 | Single Element in a Sorted Array                          | 57.5% | Medium |
+|   26 | Remove Duplicates from Sorted Array                       | 41.6% | Easy   |
+|  852 | Peak Index in a Mountain Array                            | 70.0% | Easy   |
+|  448 | Find All Numbers Disappeared in an Array                  | 54.0% | Easy   |
+|  284 | Peeking Iterator                                          | 41.5% | Medium |
+|  309 | Best Time to Buy and Sell Stock with Cooldown             | 44.6% | Medium |
+|   20 | Valid Parentheses                                         | 37.1% | Easy   |
+|   43 | Multiply Strings                                          | 31.3% | Medium |
+|   51 | N-Queens                                                  | 40.8% | Hard   |
+|   79 | Word Search                                               | 32.1% | Medium |
+|  168 | Excel Sheet Column Title                                  | 29.4% | Easy   |
+|  167 | Two Sum II - Input array is sorted                        | 51.1% | Easy   |
+|  250 | Count Univalue Subtrees                                   | 49.8% | Medium |
+|  206 | Reverse Linked List                                       | 56.3% | Easy   |
+|  378 | Kth Smallest Element in a Sorted Matrix                   | 50.4% | Medium |
+|  140 | Word Break II                                             | 28.0% | Hard   |
+|  417 | Pacific Atlantic Water Flow                               | 38.1% | Medium |
+|  724 | Find Pivot Index                                          | 41.7% | Easy   |
+|  636 | Exclusive Time of Functions                               | 49.2% | Medium |
+|  690 | Employee Importance                                       | 54.7% | Easy   |
+|  529 | Minesweeper                                               | 54.0% | Medium |
+|  345 | Reverse Vowels of a String                                | 42.0% | Easy   |
+|  543 | Diameter of Binary Tree                                   | 47.3% | Easy   |
+|  316 | Remove Duplicate Letters                                  | 33.2% | Hard   |
+|   21 | Merge Two Sorted Lists                                    | 48.5% | Easy   |
+|  201 | Bitwise AND of Numbers Range                              | 36.4% | Medium |
+|    7 | Reverse Integer                                           | 25.5% | Easy   |
+|   23 | Merge k Sorted Lists                                      | 35.6% | Hard   |
+|  343 | Integer Break                                             | 48.4% | Medium |
+|  986 | Interval List Intersections                               | 63.8% | Medium |
+|  622 | Design Circular Queue                                     | 40.4% | Medium |
+|  994 | Rotting Oranges                                           | 46.4% | Easy   |
+|  274 | H-Index                                                   | 34.8% | Medium |
+|  692 | Top K Frequent Words                                      | 46.7% | Medium |
+|  289 | Game of Life                                              | 47.1% | Medium |
+|   68 | Text Justification                                        | 24.0% | Hard   |
+|  310 | Minimum Height Trees                                      | 30.6% | Medium |
+|  144 | Binary Tree Preorder Traversal                            | 52.3% | Medium |
+|  152 | Maximum Product Subarray                                  | 29.8% | Medium |
+|  187 | Repeated DNA Sequences                                    | 36.7% | Medium |
+|   84 | Largest Rectangle in Histogram                            | 32.0% | Hard   |
+| 1145 | Binary Tree Coloring Game                                 | 46.0% | Medium |
+|  350 | Intersection of Two Arrays II                             | 48.7% | Easy   |
+|  295 | Find Median from Data Stream                              | 38.0% | Hard   |
+|  704 | Binary Search                                             | 48.9% | Easy   |
+|  662 | Maximum Width of Binary Tree                              | 39.5% | Medium |
+|   33 | Search in Rotated Sorted Array                            | 33.1% | Medium |
+|   48 | Rotate Image                                              | 50.0% | Medium |
+|  739 | Daily Temperatures                                        | 60.4% | Medium |
+|  121 | Best Time to Buy and Sell Stock                           | 48.0% | Easy   |
+|   94 | Binary Tree Inorder Traversal                             | 58.0% | Medium |
+|  279 | Perfect Squares                                           | 42.8% | Medium |
+|  747 | Largest Number At Least Twice of Others                   | 40.8% | Easy   |
+|  116 | Populating Next Right Pointers in Each Node               | 38.9% | Medium |
+|   45 | Jump Game II                                              | 28.6% | Hard   |
+| 1021 | Remove Outermost Parentheses                              | 75.1% | Easy   |
+|  836 | Rectangle Overlap                                         | 47.0% | Easy   |
+|   98 | Validate Binary Search Tree                               | 26.1% | Medium |
+|   97 | Interleaving String                                       | 28.6% | Hard   |
+|  688 | Knight Probability in Chessboard                          | 45.3% | Medium |
+|  322 | Coin Change                                               | 31.5% | Medium |
+|   62 | Unique Paths                                              | 48.7% | Medium |
+|  166 | Fraction to Recurring Decimal                             | 19.8% | Medium |
+|   63 | Unique Paths II                                           | 33.6% | Medium |
+|   69 | Sqrt(x)                                                   | 31.9% | Easy   |
+|  542 | 01 Matrix                                                 | 36.5% | Medium |
+|  162 | Find Peak Element                                         | 41.7% | Medium |
+|  523 | Continuous Subarray Sum                                   | 24.2% | Medium |
+|   65 | Valid Number                                              | 14.2% | Hard   |
+|   37 | Sudoku Solver                                             | 38.3% | Hard   |
+|   49 | Group Anagrams                                            | 48.6% | Medium |
+|  451 | Sort Characters By Frequency                              | 56.9% | Medium |
+|  942 | DI String Match                                           | 69.9% | Easy   |
+|  138 | Copy List with Random Pointer                             | 28.3% | Medium |
+|  374 | Guess Number Higher or Lower                              | 40.1% | Easy   |
+|  287 | Find the Duplicate Number                                 | 50.7% | Medium |
+|  811 | Subdomain Visit Count                                     | 66.3% | Easy   |
+|  442 | Find All Duplicates in an Array                           | 62.0% | Medium |
+|  581 | Shortest Unsorted Continuous Subarray                     | 30.4% | Easy   |
+|  229 | Majority Element II                                       | 32.8% | Medium |
+|   16 | 3Sum Closest                                              | 45.8% | Medium |
+|  278 | First Bad Version                                         | 30.9% | Easy   |
+|  572 | Subtree of Another Tree                                   | 42.0% | Easy   |
+|   19 | Remove Nth Node From End of List                          | 34.5% | Medium |
+|  224 | Basic Calculator                                          | 33.6% | Hard   |
+|  785 | Is Graph Bipartite?                                       | 44.3% | Medium |
+|  560 | Subarray Sum Equals K                                     | 42.7% | Medium |
+|  367 | Valid Perfect Square                                      | 40.3% | Easy   |
+|  404 | Sum of Left Leaves                                        | 49.5% | Easy   |
+|  177 | Nth Highest Salary                                        | 27.3% | Medium |
+|  103 | Binary Tree Zigzag Level Order Traversal                  | 42.8% | Medium |
+|  131 | Palindrome Partitioning                                   | 42.2% | Medium |
+|  109 | Convert Sorted List to Binary Search Tree                 | 42.0% | Medium |
+|  213 | House Robber II                                           | 35.5% | Medium |
+|    6 | ZigZag Conversion                                         | 32.9% | Medium |
+|  226 | Invert Binary Tree                                        | 59.2% | Easy   |
+|  207 | Course Schedule                                           | 38.8% | Medium |
+|   81 | Search in Rotated Sorted Array II                         | 32.7% | Medium |
+|  268 | Missing Number                                            | 49.0% | Easy   |
+|   75 | Sort Colors                                               | 43.0% | Medium |
+|  371 | Sum of Two Integers                                       | 50.8% | Easy   |
+|  965 | Univalued Binary Tree                                     | 66.9% | Easy   |
+|  665 | Non-decreasing Array                                      | 19.5% | Easy   |
+|  234 | Palindrome Linked List                                    | 36.8% | Easy   |
+|   24 | Swap Nodes in Pairs                                       | 45.9% | Medium |
+|  559 | Maximum Depth of N-ary Tree                               | 66.0% | Easy   |
+|  415 | Add Strings                                               | 44.3% | Easy   |
+|   50 | Pow(x, n)                                                 | 28.4% | Medium |
+|  104 | Maximum Depth of Binary Tree                              | 61.7% | Easy   |
+|  231 | Power of Two                                              | 42.2% | Easy   |
+|  100 | Same Tree                                                 | 50.5% | Easy   |
+|   78 | Subsets                                                   | 54.4% | Medium |
+|   77 | Combinations                                              | 49.2% | Medium |
+|  242 | Valid Anagram                                             | 53.2% | Easy   |
+|  387 | First Unique Character in a String                        | 50.5% | Easy   |
+|  328 | Odd Even Linked List                                      | 50.1% | Medium |
+|  122 | Best Time to Buy and Sell Stock II                        | 52.8% | Easy   |
+|  173 | Binary Search Tree Iterator                               | 49.9% | Medium |
+|   35 | Search Insert Position                                    | 41.1% | Easy   |
+|   18 | 4Sum                                                      | 31.3% | Medium |
+|  191 | Number of 1 Bits                                          | 44.4% | Easy   |
+|  240 | Search a 2D Matrix II                                     | 41.2% | Medium |
+|   40 | Combination Sum II                                        | 43.0% | Medium |
+|  283 | Move Zeroes                                               | 54.9% | Easy   |
+|  203 | Remove Linked List Elements                               | 36.3% | Easy   |
+|   32 | Longest Valid Parentheses                                 | 26.1% | Hard   |
+|   41 | First Missing Positive                                    | 29.5% | Hard   |
+|  199 | Binary Tree Right Side View                               | 49.0% | Medium |
+|  105 | Construct Binary Tree from Preorder and Inorder Traversal | 42.6% | Medium |
+|  204 | Count Primes                                              | 29.6% | Easy   |
+|   38 | Count and Say                                             | 41.4% | Easy   |
+|   13 | Roman to Integer                                          | 53.0% | Easy   |
+|  153 | Find Minimum in Rotated Sorted Array                      | 43.4% | Medium |
+|   12 | Integer to Roman                                          | 51.8% | Medium |
+|   64 | Minimum Path Sum                                          | 48.1% | Medium |
+|   36 | Valid Sudoku                                              | 44.3% | Medium |
+|  110 | Balanced Binary Tree                                      | 41.5% | Easy   |
+|  237 | Delete Node in a Linked List                              | 55.0% | Easy   |
+|  160 | Intersection of Two Linked Lists                          | 35.1% | Easy   |
+|    9 | Palindrome Number                                         | 44.5% | Easy   |
+|  108 | Convert Sorted Array to Binary Search Tree                | 52.2% | Easy   |
+|  709 | To Lower Case                                             | 77.4% | Easy   |
+|   39 | Combination Sum                                           | 50.1% | Medium |
+|  198 | House Robber                                              | 41.2% | Easy   |
+|   46 | Permutations                                              | 56.8% | Medium |
+|  217 | Contains Duplicate                                        | 52.9% | Easy   |
+|  141 | Linked List Cycle                                         | 37.8% | Easy   |
+|  125 | Valid Palindrome                                          | 32.0% | Easy   |
+|   88 | Merge Sorted Array                                        | 36.5% | Easy   |
+|    8 | String to Integer (atoi)                                  | 14.8% | Medium |
+|   70 | Climbing Stairs                                           | 44.8% | Easy   |
+| 1108 | Defanging an IP Address                                   | 85.0% | Easy   |
+
+#+NAME: my-filter
+ #+BEGIN_SRC elisp :var tbl=table1 val="Medium" :colnames y
+    (cl-loop for row in tbl
+          if (equal (nth 3 row) val)
+          collect row into newtbl
+          finally return newtbl)
+  #+END_SRC
+
+✓ C-x 8 RET check mark RET
+
+  #+RESULTS: my-filter
+  |    # | Title                                            | Accpt | Diff   |   |
+  |------+--------------------------------------------------+-------+--------+---|
+  | 1057 | Campus Bikes                                     | 58.4% | Medium | ✓ |
+  |  222 | Count Complete Tree Nodes                        | 35.8% | Medium | ✓ |
+  |  947 | Most Stones Removed with Same Row or Column      | 54.4% | Medium | ✓ |
+  | 1066 | Campus Bikes II                                  | 49.6% | Medium | ✓ |
+  |  833 | Find And Replace in String                       | 47.3% | Medium |   |
+  |  200 | Number of Islands                                | 42.5% | Medium |   |
+  |    2 | Add Two Numbers                                  | 31.6% | Medium |   |
+  |  809 | Expressive Words                                 | 44.2% | Medium |   |
+  |  524 | Longest Word in Dictionary through Deleting      | 46.4% | Medium |   |
+  | 1007 | Minimum Domino Rotations For Equal Row           | 48.9% | Medium |   |
+  |  353 | Design Snake Game                                | 31.2% | Medium |   |
+  | 1055 | Shortest Way to Form String                      | 58.7% | Medium |   |
+  |   56 | Merge Intervals                                  | 36.3% | Medium |   |
+  |  163 | Missing Ranges                                   | 23.4% | Medium |   |
+  |  963 | Minimum Area Rectangle II                        | 46.4% | Medium | ✓ |
+  | 1011 | Capacity To Ship Packages Within D Days          | 53.8% | Medium | ✓ |
+  |  399 | Evaluate Division                                | 48.3% | Medium |   |
+  |  939 | Minimum Area Rectangle                           | 51.1% | Medium |   |
+  |  247 | Strobogrammatic Number II                        | 45.1% | Medium |   |
+  |  731 | My Calendar II                                   | 45.6% | Medium |   |
+  |  253 | Meeting Rooms II                                 | 43.4% | Medium |   |
+  | 1087 | Brace Expansion                                  | 59.4% | Medium |   |
+  |  241 | Different Ways to Add Parentheses                | 51.1% | Medium |   |
+  |   15 | 3Sum                                             | 24.6% | Medium |   |
+  |  900 | RLE Iterator                                     | 50.8% | Medium |   |
+  |  981 | Time Based Key-Value Store                       | 51.4% | Medium |   |
+  |  743 | Network Delay Time                               | 43.3% | Medium |   |
+  |  351 | Android Unlock Patterns                          | 46.5% | Medium |   |
+  |  837 | New 21 Game                                      | 32.2% | Medium |   |
+  |  904 | Fruit Into Baskets                               | 41.8% | Medium |   |
+  |  334 | Increasing Triplet Subsequence                   | 39.5% | Medium |   |
+  |  394 | Decode String                                    | 45.9% | Medium |   |
+  |  767 | Reorganize String                                | 43.5% | Medium |   |
+  |  708 | Insert into a Cyclic Sorted List                 | 29.8% | Medium |   |
+  |  388 | Longest Absolute File Path                       | 39.5% | Medium |   |
+  |  375 | Guess Number Higher or Lower II                  | 38.3% | Medium |   |
+  |  616 | Add Bold Tag in String                           | 39.8% | Medium |   |
+  |  777 | Swap Adjacent in LR String                       | 33.6% | Medium |   |
+  |  304 | Range Sum Query 2D - Immutable                   | 33.5% | Medium |   |
+  |  288 | Unique Word Abbreviation                         | 20.4% | Medium |   |
+  |    3 | Longest Substring Without Repeating Characters   | 28.7% | Medium |   |
+  |  846 | Hand of Straights                                | 49.8% | Medium |   |
+  |  987 | Vertical Order Traversal of a Binary Tree        | 32.1% | Medium |   |
+  |  853 | Car Fleet                                        | 40.4% | Medium |   |
+  |   34 | Find Fst&Lst Position of Element in Sorted Array | 34.0% | Medium |   |
+  |  911 | Online Election                                  | 47.8% | Medium |   |
+  | 1048 | Longest String Chain                             | 49.0% | Medium |   |
+  |  973 | K Closest Points to Origin                       | 61.5% | Medium |   |
+  |  271 | Encode and Decode Strings                        | 27.5% | Medium |   |
+  |  855 | Exam Room                                        | 39.2% | Medium |   |
+  |    5 | Longest Palindromic Substring                    | 27.8% | Medium |   |
+  |  146 | LRU Cache                                        | 26.8% | Medium |   |
+  |  393 | UTF-8 Validation                                 | 36.3% | Medium |   |
+  |  366 | Find Leaves of Binary Tree                       | 66.9% | Medium |   |
+  |  621 | Task Scheduler                                   | 46.1% | Medium |   |
+  |  497 | Random Point in Non-overlapping Rectangles       | 36.0% | Medium |   |
+  | 1110 | Delete Nodes And Return Forest                   | 63.1% | Medium |   |
+  |  544 | Output Contest Matches                           | 73.8% | Medium |   |
+  |  298 | Binary Tree Longest Consecutive Sequence         | 44.6% | Medium |   |
+  |  221 | Maximal Square                                   | 33.8% | Medium |   |
+  |  137 | Single Number II                                 | 46.8% | Medium |   |
+  |  528 | Random Pick with Weight                          | 43.0% | Medium |   |
+  |  277 | Find the Celebrity                               | 37.8% | Medium |   |
+  |  490 | The Maze                                         | 48.3% | Medium |   |
+  |  280 | Wiggle Sort                                      | 61.5% | Medium |   |
+  |  208 | Implement Trie (Prefix Tree)                     | 39.9% | Medium |   |
+  |  139 | Word Break                                       | 36.2% | Medium |   |
+  |   55 | Jump Game                                        | 32.4% | Medium |   |
+  |  117 | Populating Next Right Pointers in Each Node II   | 35.2% | Medium |   |
+  |  742 | Closest Leaf in a Binary Tree                    | 40.1% | Medium |   |
+  |  609 | Find Duplicate File in System                    | 56.1% | Medium |   |
+  |  406 | Queue Reconstruction by Height                   | 60.6% | Medium |   |
+  |  133 | Clone Graph                                      | 27.8% | Medium |   |
+  | 1091 | Shortest Path in Binary Matrix                   | 36.5% | Medium |   |
+  |   31 | Next Permutation                                 | 30.9% | Medium |   |
+  |  150 | Evaluate Reverse Polish Notation                 | 33.0% | Medium |   |
+  |  951 | Flip Equivalent Binary Trees                     | 64.8% | Medium |   |
+  |  261 | Graph Valid Tree                                 | 40.3% | Medium |   |
+  |  210 | Course Schedule II                               | 35.9% | Medium |   |
+  |  380 | Insert Delete GetRandom O(1)                     | 43.5% | Medium |   |
+  |  498 | Diagonal Traverse                                | 45.7% | Medium |   |
+  |  148 | Sort List                                        | 36.7% | Medium |   |
+  |  238 | Product of Array Except Self                     | 56.1% | Medium |   |
+  |  737 | Sentence Similarity II                           | 43.9% | Medium |   |
+  |  714 | Best Time to Buy/Sell Stock with Transaction Fee | 51.2% | Medium |   |
+  |  659 | Split Array into Consecutive Subsequences        | 41.2% | Medium |   |
+  |  385 | Mini Parser                                      | 32.3% | Medium |   |
+  |  281 | Zigzag Iterator                                  | 56.4% | Medium |   |
+  |  438 | Find All Anagrams in a String                    | 38.0% | Medium |   |
+  |  979 | Distribute Coins in Binary Tree                  | 67.7% | Medium |   |
+  |  702 | Search in a Sorted Array of Unknown Size         | 60.6% | Medium |   |
+  |   11 | Container With Most Water                        | 46.1% | Medium |   |
+  |  215 | Kth Largest Element in an Array                  | 49.3% | Medium |   |
+  |  347 | Top K Frequent Elements                          | 56.1% | Medium |   |
+  | 1024 | Video Stitching                                  | 47.0% | Medium |   |
+  |  386 | Lexicographical Numbers                          | 47.4% | Medium |   |
+  |  332 | Reconstruct Itinerary                            | 32.3% | Medium |   |
+  |  300 | Longest Increasing Subsequence                   | 41.2% | Medium |   |
+  |  681 | Next Closest Time                                | 43.0% | Medium |   |
+  |  379 | Design Phone Directory                           | 42.7% | Medium |   |
+  |  130 | Surrounded Regions                               | 23.6% | Medium |   |
+  |   22 | Generate Parentheses                             | 56.5% | Medium |   |
+  |  802 | Find Eventual Safe States                        | 44.9% | Medium |   |
+  |  535 | Encode and Decode TinyURL                        | 77.4% | Medium |   |
+  |   17 | Letter Combinations of a Phone Number            | 42.6% | Medium |   |
+  |  156 | Binary Tree Upside Down                          | 51.8% | Medium |   |
+  |  505 | The Maze II                                      | 44.9% | Medium |   |
+  |  127 | Word Ladder                                      | 25.1% | Medium |   |
+  |  518 | Coin Change 2                                    | 43.7% | Medium |   |
+  |  382 | Linked List Random Node                          | 49.8% | Medium |   |
+  |  935 | Knight Dialer                                    | 41.8% | Medium |   |
+  |  486 | Predict the Winner                               | 47.0% | Medium |   |
+  |   54 | Spiral Matrix                                    | 31.1% | Medium |   |
+  |  540 | Single Element in a Sorted Array                 | 57.5% | Medium |   |
+  |  284 | Peeking Iterator                                 | 41.5% | Medium |   |
+  |  309 | Best Time to Buy and Sell Stock with Cooldown    | 44.6% | Medium |   |
+  |   43 | Multiply Strings                                 | 31.3% | Medium |   |
+  |   79 | Word Search                                      | 32.1% | Medium |   |
+  |  250 | Count Univalue Subtrees                          | 49.8% | Medium |   |
+  |  378 | Kth Smallest Element in a Sorted Matrix          | 50.4% | Medium |   |
+  |  417 | Pacific Atlantic Water Flow                      | 38.1% | Medium |   |
+  |  636 | Exclusive Time of Functions                      | 49.2% | Medium |   |
+  |  529 | Minesweeper                                      | 54.0% | Medium |   |
+  |  201 | Bitwise AND of Numbers Range                     | 36.4% | Medium |   |
+  |  343 | Integer Break                                    | 48.4% | Medium |   |
+  |  986 | Interval List Intersections                      | 63.8% | Medium |   |
+  |  622 | Design Circular Queue                            | 40.4% | Medium |   |
+  |  274 | H-Index                                          | 34.8% | Medium |   |
+  |  692 | Top K Frequent Words                             | 46.7% | Medium |   |
+  |  289 | Game of Life                                     | 47.1% | Medium |   |
+  |  310 | Minimum Height Trees                             | 30.6% | Medium |   |
+  |  144 | Binary Tree Preorder Traversal                   | 52.3% | Medium |   |
+  |  152 | Maximum Product Subarray                         | 29.8% | Medium |   |
+  |  187 | Repeated DNA Sequences                           | 36.7% | Medium |   |
+  | 1145 | Binary Tree Coloring Game                        | 46.0% | Medium |   |
+  |  662 | Maximum Width of Binary Tree                     | 39.5% | Medium |   |
+  |   33 | Search in Rotated Sorted Array                   | 33.1% | Medium |   |
+  |   48 | Rotate Image                                     | 50.0% | Medium |   |
+  |  739 | Daily Temperatures                               | 60.4% | Medium |   |
+  |   94 | Binary Tree Inorder Traversal                    | 58.0% | Medium |   |
+  |  279 | Perfect Squares                                  | 42.8% | Medium |   |
+  |  116 | Populating Next Right Pointers in Each Node      | 38.9% | Medium |   |
+  |   98 | Validate Binary Search Tree                      | 26.1% | Medium |   |
+  |  688 | Knight Probability in Chessboard                 | 45.3% | Medium |   |
+  |  322 | Coin Change                                      | 31.5% | Medium |   |
+  |   62 | Unique Paths                                     | 48.7% | Medium |   |
+  |  166 | Fraction to Recurring Decimal                    | 19.8% | Medium |   |
+  |   63 | Unique Paths II                                  | 33.6% | Medium |   |
+  |  542 | 01 Matrix                                        | 36.5% | Medium |   |
+  |  162 | Find Peak Element                                | 41.7% | Medium |   |
+  |  523 | Continuous Subarray Sum                          | 24.2% | Medium |   |
+  |   49 | Group Anagrams                                   | 48.6% | Medium |   |
+  |  451 | Sort Characters By Frequency                     | 56.9% | Medium |   |
+  |  138 | Copy List with Random Pointer                    | 28.3% | Medium |   |
+  |  287 | Find the Duplicate Number                        | 50.7% | Medium |   |
+  |  442 | Find All Duplicates in an Array                  | 62.0% | Medium |   |
+  |  229 | Majority Element II                              | 32.8% | Medium |   |
+  |   16 | 3Sum Closest                                     | 45.8% | Medium |   |
+  |   19 | Remove Nth Node From End of List                 | 34.5% | Medium |   |
+  |  785 | Is Graph Bipartite?                              | 44.3% | Medium |   |
+  |  560 | Subarray Sum Equals K                            | 42.7% | Medium |   |
+  |  177 | Nth Highest Salary                               | 27.3% | Medium |   |
+  |  103 | Binary Tree Zigzag Level Order Traversal         | 42.8% | Medium |   |
+  |  131 | Palindrome Partitioning                          | 42.2% | Medium |   |
+  |  109 | Convert Sorted List to Binary Search Tree        | 42.0% | Medium |   |
+  |  213 | House Robber II                                  | 35.5% | Medium |   |
+  |    6 | ZigZag Conversion                                | 32.9% | Medium |   |
+  |  207 | Course Schedule                                  | 38.8% | Medium |   |
+  |   81 | Search in Rotated Sorted Array II                | 32.7% | Medium |   |
+  |   75 | Sort Colors                                      | 43.0% | Medium |   |
+  |   24 | Swap Nodes in Pairs                              | 45.9% | Medium |   |
+  |   50 | Pow(x, n)                                        | 28.4% | Medium |   |
+  |   78 | Subsets                                          | 54.4% | Medium |   |
+  |   77 | Combinations                                     | 49.2% | Medium |   |
+  |  328 | Odd Even Linked List                             | 50.1% | Medium |   |
+  |  173 | Binary Search Tree Iterator                      | 49.9% | Medium |   |
+  |   18 | 4Sum                                             | 31.3% | Medium |   |
+  |  240 | Search a 2D Matrix II                            | 41.2% | Medium |   |
+  |   40 | Combination Sum II                               | 43.0% | Medium |   |
+  |  199 | Binary Tree Right Side View                      | 49.0% | Medium |   |
+  |  105 | Constr. BinTree fr Preorder & Inorder Traversal  | 42.6% | Medium |   |
+  |  153 | Find Minimum in Rotated Sorted Array             | 43.4% | Medium |   |
+  |   12 | Integer to Roman                                 | 51.8% | Medium |   |
+  |   64 | Minimum Path Sum                                 | 48.1% | Medium |   |
+  |   36 | Valid Sudoku                                     | 44.3% | Medium |   |
+  |   39 | Combination Sum                                  | 50.1% | Medium |   |
+  |   46 | Permutations                                     | 56.8% | Medium |   |
+  |    8 | String to Integer (atoi)                         | 14.8% | Medium |   |
+
