@@ -640,9 +640,9 @@
   |  222 | Count Complete Tree Nodes                        | 35.8% | Medium | ✓ |
   |  947 | Most Stones Removed with Same Row or Column      | 54.4% | Medium | ✓ |
   | 1066 | Campus Bikes II                                  | 49.6% | Medium | ✓ |
-  |  833 | Find And Replace in String                       | 47.3% | Medium |   |
-  |  200 | Number of Islands                                | 42.5% | Medium |   |
-  |    2 | Add Two Numbers                                  | 31.6% | Medium |   |
+  |  833 | Find And Replace in String                       | 47.3% | Medium | ✓ |
+  |  200 | Number of Islands                                | 42.5% | Medium | ✓ |
+  |    2 | Add Two Numbers                                  | 31.6% | Medium | ✓ |
   |  809 | Expressive Words                                 | 44.2% | Medium |   |
   |  524 | Longest Word in Dictionary through Deleting      | 46.4% | Medium |   |
   | 1007 | Minimum Domino Rotations For Equal Row           | 48.9% | Medium |   |
