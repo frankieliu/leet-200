@@ -254,6 +254,8 @@
          ] 0 "%d")) arg)))
 #+end_src
 
+These are the top google questions from past 6 months
+
 #+NAME: table1
 |    # | Title                                                     | Accpt | Diff   |
 |------+-----------------------------------------------------------+-------+--------|
@@ -623,6 +625,7 @@
 |   70 | Climbing Stairs                                           | 44.8% | Easy   |
 | 1108 | Defanging an IP Address                                   | 85.0% | Easy   |
 
+Filtering results for medium (google recent 6 month)
 #+NAME: my-filter
  #+BEGIN_SRC elisp :var tbl=table1 val="Medium" :colnames y
     (cl-loop for row in tbl
@@ -643,11 +646,11 @@
   |  833 | Find And Replace in String                       | 47.3% | Medium | ✓ |
   |  200 | Number of Islands                                | 42.5% | Medium | ✓ |
   |    2 | Add Two Numbers                                  | 31.6% | Medium | ✓ |
-  |  809 | Expressive Words                                 | 44.2% | Medium |   |
-  |  524 | Longest Word in Dictionary through Deleting      | 46.4% | Medium |   |
-  | 1007 | Minimum Domino Rotations For Equal Row           | 48.9% | Medium |   |
-  |  353 | Design Snake Game                                | 31.2% | Medium |   |
-  | 1055 | Shortest Way to Form String                      | 58.7% | Medium |   |
+  |  809 | Expressive Words                                 | 44.2% | Medium | ✓ |
+  |  524 | Longest Word in Dictionary through Deleting      | 46.4% | Medium | ✓ |
+  | 1007 | Minimum Domino Rotations For Equal Row           | 48.9% | Medium | ✓ |
+  |  353 | Design Snake Game                                | 31.2% | Medium | ✓ |
+  | 1055 | Shortest Way to Form String                      | 58.7% | Medium | ✓ |
   |   56 | Merge Intervals                                  | 36.3% | Medium |   |
   |  163 | Missing Ranges                                   | 23.4% | Medium |   |
   |  963 | Minimum Area Rectangle II                        | 46.4% | Medium | ✓ |
@@ -823,5 +826,96 @@
   |   36 | Valid Sudoku                                     | 44.3% | Medium |   |
   |   39 | Combination Sum                                  | 50.1% | Medium |   |
   |   46 | Permutations                                     | 56.8% | Medium |   |
-  |    8 | String to Integer (atoi)                         | 14.8% | Medium |   |
+  |    8 | String to Integer (atoi)                         | 14.8% | Medium | ✓ |
 
+Filtering results for hard (google recent 6 month)
+#+NAME: my-filter-hard
+ #+BEGIN_SRC elisp :var tbl=table1 val="Hard" :colnames y
+    (cl-loop for row in tbl
+          if (equal (nth 3 row) val)
+          collect row into newtbl
+          finally return newtbl)
+  #+END_SRC
+
+  #+RESULTS: my-filter-hard
+  |    # | Title                                                  | Accpt | Diff |
+  |------+--------------------------------------------------------+-------+------|
+  |  410 | Split Array Largest Sum                                | 42.8% | Hard |
+  |  975 | Odd Even Jump                                          | 46.3% | Hard |
+  |  843 | Guess the Word                                         | 44.4% | Hard |
+  |  753 | Cracking the Safe                                      | 47.5% | Hard |
+  |  489 | Robot Room Cleaner                                     | 65.7% | Hard |
+  |  913 | Cat and Mouse                                          | 29.1% | Hard |
+  | 1096 | Brace Expansion II                                     | 55.8% | Hard |
+  |    4 | Median of Two Sorted Arrays                            | 27.1% | Hard |
+  |  158 | Read N Characters Given Read4 II - Call multiple times | 27.4% | Hard |
+  |  818 | Race Car                                               | 35.8% | Hard |
+  |  642 | Design Search Autocomplete System                      | 39.1% | Hard |
+  |  465 | Optimal Account Balancing                              | 43.4% | Hard |
+  |   57 | Insert Interval                                        | 31.6% | Hard |
+  | 1032 | Stream of Characters                                   | 42.4% | Hard |
+  |  857 | Minimum Cost to Hire K Workers                         | 48.1% | Hard |
+  |  943 | Find the Shortest Superstring                          | 38.6% | Hard |
+  |   42 | Trapping Rain Water                                    | 44.2% | Hard |
+  |  248 | Strobogrammatic Number III                             | 37.2% | Hard |
+  |  679 | 24 Game                                                | 43.5% | Hard |
+  |  315 | Count of Smaller Numbers After Self                    | 38.9% | Hard |
+  |  354 | Russian Doll Envelopes                                 | 34.3% | Hard |
+  |  124 | Binary Tree Maximum Path Sum                           | 30.7% | Hard |
+  |  710 | Random Pick with Blacklist                             | 32.0% | Hard |
+  |  329 | Longest Increasing Path in a Matrix                    | 40.7% | Hard |
+  |  660 | Remove 9                                               | 52.2% | Hard |
+  |  425 | Word Squares                                           | 45.1% | Hard |
+  |  727 | Minimum Window Subsequence                             | 38.0% | Hard |
+  |  736 | Parse Lisp Expression                                  | 44.8% | Hard |
+  |  308 | Range Sum Query 2D - Mutable                           | 32.8% | Hard |
+  |  774 | Minimize Max Distance to Gas Station                   | 42.8% | Hard |
+  |  218 | The Skyline Problem                                    | 32.2% | Hard |
+  |  458 | Poor Pigs                                              | 46.0% | Hard |
+  |  527 | Word Abbreviation                                      | 51.1% | Hard |
+  |  128 | Longest Consecutive Sequence                           | 42.4% | Hard |
+  |   10 | Regular Expression Matching                            | 25.6% | Hard |
+  | 1036 | Escape a Large Maze                                    | 35.2% | Hard |
+  |  552 | Student Attendance Record II                           | 33.7% | Hard |
+  |  340 | Longest Substring with At Most K Distinct Characters   | 40.6% | Hard |
+  |  685 | Redundant Connection II                                | 31.0% | Hard |
+  |   44 | Wildcard Matching                                      | 23.2% | Hard |
+  |  159 | Longest Substring with At Most Two Distinct Characters | 47.6% | Hard |
+  |  428 | Serialize and Deserialize N-ary Tree                   | 55.0% | Hard |
+  |  871 | Minimum Number of Refueling Stops                      | 29.8% | Hard |
+  |   85 | Maximal Rectangle                                      | 34.2% | Hard |
+  |  297 | Serialize and Deserialize Binary Tree                  | 42.1% | Hard |
+  |  839 | Similar String Groups                                  | 35.3% | Hard |
+  |  363 | Max Sum of Rectangle No Larger Than K                  | 35.5% | Hard |
+  |  317 | Shortest Distance from All Buildings                   | 38.6% | Hard |
+  |   76 | Minimum Window Substring                               | 31.6% | Hard |
+  |  403 | Frog Jump                                              | 36.8% | Hard |
+  |  149 | Max Points on a Line                                   | 16.0% | Hard |
+  |  126 | Word Ladder II                                         | 18.5% | Hard |
+  |  132 | Palindrome Partitioning II                             | 28.1% | Hard |
+  |  773 | Sliding Puzzle                                         | 53.6% | Hard |
+  |  296 | Best Meeting Point                                     | 55.7% | Hard |
+  |  212 | Word Search II                                         | 29.6% | Hard |
+  |  185 | Department Top Three Salaries                          | 27.5% | Hard |
+  |  992 | Subarrays with K Different Integers                    | 44.9% | Hard |
+  |  480 | Sliding Window Median                                  | 33.4% | Hard |
+  |   30 | Substring with Concatenation of All Words              | 24.0% | Hard |
+  |  269 | Alien Dictionary                                       | 31.9% | Hard |
+  |  980 | Unique Paths III                                       | 71.2% | Hard |
+  |  188 | Best Time to Buy and Sell Stock IV                     | 26.7% | Hard |
+  |   72 | Edit Distance                                          | 39.0% | Hard |
+  |  239 | Sliding Window Maximum                                 | 39.0% | Hard |
+  |   51 | N-Queens                                               | 40.8% | Hard |
+  |  140 | Word Break II                                          | 28.0% | Hard |
+  |  316 | Remove Duplicate Letters                               | 33.2% | Hard |
+  |   23 | Merge k Sorted Lists                                   | 35.6% | Hard |
+  |   68 | Text Justification                                     | 24.0% | Hard |
+  |   84 | Largest Rectangle in Histogram                         | 32.0% | Hard |
+  |  295 | Find Median from Data Stream                           | 38.0% | Hard |
+  |   45 | Jump Game II                                           | 28.6% | Hard |
+  |   97 | Interleaving String                                    | 28.6% | Hard |
+  |   65 | Valid Number                                           | 14.2% | Hard |
+  |   37 | Sudoku Solver                                          | 38.3% | Hard |
+  |  224 | Basic Calculator                                       | 33.6% | Hard |
+  |   32 | Longest Valid Parentheses                              | 26.1% | Hard |
+  |   41 | First Missing Positive                                 | 29.5% | Hard |

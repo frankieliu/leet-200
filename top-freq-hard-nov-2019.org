@@ -1,0 +1,524 @@
+42	
+Trapping Rain Water    		45.7%	Hard	
+4	
+Median of Two Sorted Arrays    		27.8%	Hard	
+23	
+Merge k Sorted Lists    		37.0%	Hard	
+76	
+Minimum Window Substring    		32.5%	Hard	
+273	
+Integer to English Words    		25.3%	Hard	
+301	
+Remove Invalid Parentheses    		41.0%	Hard	
+1192	
+Critical Connections in a Network    		48.5%	Hard	
+297	
+Serialize and Deserialize Binary Tree    		43.7%	Hard	
+68	
+Text Justification    		24.9%	Hard	
+336	
+Palindrome Pairs    		32.2%	Hard	
+269	
+Alien Dictionary    		33.2%	Hard	
+41	
+First Missing Positive    		30.2%	Hard	
+10	
+Regular Expression Matching    		25.9%	Hard	
+85	
+Maximal Rectangle    		35.1%	Hard	
+741	
+Cherry Pickup    		32.2%	Hard	
+218	
+The Skyline Problem    		32.8%	Hard	
+312	
+Burst Balloons    		49.1%	Hard	
+642	
+Design Search Autocomplete System    		41.1%	Hard	
+124	
+Binary Tree Maximum Path Sum    		31.6%	Hard	
+32	
+Longest Valid Parentheses    		26.7%	Hard	
+45	
+Jump Game II    		29.2%	Hard	
+72	
+Edit Distance    		40.2%	Hard	
+759	
+Employee Free Time    		63.3%	Hard	
+410	
+Split Array Largest Sum    		43.3%	Hard	
+295	
+Find Median from Data Stream    		39.7%	Hard	
+212	
+Word Search II    		30.9%	Hard	
+460	
+LFU Cache    		31.2%	Hard	
+51	
+N-Queens    		42.4%	Hard	
+97	
+Interleaving String    		29.4%	Hard	
+315	
+Count of Smaller Numbers After Self    		40.0%	Hard	
+44	
+Wildcard Matching    		23.7%	Hard	
+158	
+Read N Characters Given Read4 II - Call multiple times    		29.3%	Hard	
+25	
+Reverse Nodes in k-Group    		38.6%	Hard	
+780	
+Reaching Points    		28.4%	Hard	
+57	
+Insert Interval    		32.1%	Hard	
+65	
+Valid Number    		14.5%	Hard	
+37	
+Sudoku Solver    		39.6%	Hard	
+224	
+Basic Calculator    		34.7%	Hard	
+140	
+Word Break II    		28.8%	Hard	
+149	
+Max Points on a Line    		16.3%	Hard	
+126	
+Word Ladder II    		19.6%	Hard	
+128	
+Longest Consecutive Sequence    		43.2%	Hard	
+317	
+Shortest Distance from All Buildings    		39.5%	Hard	
+123	
+Best Time to Buy and Sell Stock III    		35.4%	Hard	
+239	
+Sliding Window Maximum    		40.0%	Hard	
+403	
+Frog Jump    		37.5%	Hard	
+843	
+Guess the Word    		45.2%	Hard	
+340	
+Longest Substring with At Most K Distinct Characters    		41.7%	Hard	
+736	
+Parse Lisp Expression    		45.6%	Hard	
+428	
+Serialize and Deserialize N-ary Tree    		56.3%	Hard	
+772	
+Basic Calculator III    		41.2%	Hard	
+214	
+Shortest Palindrome    		28.4%	Hard	
+829	
+Consecutive Numbers Sum    		35.4%	Hard	
+964	
+Least Operators to Express Number    		41.7%	Hard	
+472	
+Concatenated Words    		38.4%	Hard	
+887	
+Super Egg Drop    		25.8%	Hard	
+679	
+24 Game    		44.3%	Hard	
+30	
+Substring with Concatenation of All Words    		24.4%	Hard	
+1163	
+Last Substring in Lexicographical Order    		31.1%	Hard	
+432	
+All O`one Data Structure    		30.9%	Hard	
+591	
+Tag Validator    		33.4%	Hard	
+84	
+Largest Rectangle in Histogram    		32.7%	Hard	
+329	
+Longest Increasing Path in a Matrix    		41.5%	Hard	
+316	
+Remove Duplicate Letters    		33.8%	Hard	
+588	
+Design In-Memory File System    		42.3%	Hard	
+188	
+Best Time to Buy and Sell Stock IV    		27.1%	Hard	
+773	
+Sliding Puzzle    		55.4%	Hard	
+420	
+Strong Password Checker    		16.4%	Hard	
+99	
+Recover Binary Search Tree    		36.3%	Hard	
+564	
+Find the Closest Palindrome    		19.2%	Hard	
+465	
+Optimal Account Balancing    		44.9%	Hard	
+1096	
+Brace Expansion II    		60.6%	Hard	
+440	
+K-th Smallest in Lexicographical Order    		27.6%	Hard	
+480	
+Sliding Window Median    		34.5%	Hard	
+282	
+Expression Add Operators    		34.1%	Hard	
+730	
+Count Different Palindromic Subsequences    		40.4%	Hard	
+753	
+Cracking the Safe    		48.8%	Hard	
+862	
+Shortest Subarray with Sum at Least K    		22.9%	Hard	
+233	
+Number of Digit One    		30.8%	Hard	
+363	
+Max Sum of Rectangle No Larger Than K    		35.8%	Hard	
+1032	
+Stream of Characters    		45.7%	Hard	
+321	
+Create Maximum Number    		26.0%	Hard	
+381	
+Insert Delete GetRandom O(1) - Duplicates allowed    		33.0%	Hard	
+980	
+Unique Paths III    		71.6%	Hard	
+296	
+Best Meeting Point    		56.3%	Hard	
+489	
+Robot Room Cleaner    		67.1%	Hard	
+407	
+Trapping Rain Water II    		40.2%	Hard	
+1036	
+Escape a Large Maze    		35.0%	Hard	
+834	
+Sum of Distances in Tree    		41.6%	Hard	
+354	
+Russian Doll Envelopes    		34.6%	Hard	
+943	
+Find the Shortest Superstring    		40.7%	Hard	
+828	
+Unique Letter String    		42.1%	Hard	
+995	
+Minimum Number of K Consecutive Bit Flips    		46.3%	Hard	
+631	
+Design Excel Sum Formula    		30.3%	Hard	
+135	
+Candy    		29.7%	Hard	
+291	
+Word Pattern II    		42.3%	Hard	
+727	
+Minimum Window Subsequence    		39.4%	Hard	
+805	
+Split Array With Same Average    		25.4%	Hard	
+272	
+Closest Binary Search Tree Value II    		47.6%	Hard	
+761	
+Special Binary String    		53.5%	Hard	
+1000	
+Minimum Cost to Merge Stones    		36.8%	Hard	
+895	
+Maximum Frequency Stack    		58.6%	Hard	
+992	
+Subarrays with K Different Integers    		46.0%	Hard	
+1240	
+Tiling a Rectangle with the Fewest Squares    		48.7%	Hard	
+815	
+Bus Routes    		41.3%	Hard	
+913	
+Cat and Mouse    		29.9%	Hard	
+164	
+Maximum Gap    		33.7%	Hard	
+132	
+Palindrome Partitioning II    		28.7%	Hard	
+975	
+Odd Even Jump    		44.7%	Hard	
+726	
+Number of Atoms    		46.3%	Hard	
+185	
+Department Top Three Salaries    		29.5%	Hard	
+1206	
+Design Skiplist    		60.0%	Hard	
+691	
+Stickers to Spell Word    		40.4%	Hard	
+632	
+Smallest Range Covering Elements from K Lists    		49.8%	Hard	
+493	
+Reverse Pairs    		24.0%	Hard	
+765	
+Couples Holding Hands    		52.9%	Hard	
+488	
+Zuma Game    		40.2%	Hard	
+770	
+Basic Calculator IV    		46.0%	Hard	
+527	
+Word Abbreviation    		52.1%	Hard	
+115	
+Distinct Subsequences    		36.1%	Hard	
+675	
+Cut Off Trees for Golf Event    		32.9%	Hard	
+920	
+Number of Music Playlists    		44.8%	Hard	
+335	
+Self Crossing    		27.3%	Hard	
+982	
+Triples with Bitwise AND Equal To Zero    		54.9%	Hard	
+358	
+Rearrange String k Distance Apart    		33.9%	Hard	
+552	
+Student Attendance Record II    		34.7%	Hard	
+839	
+Similar String Groups    		36.3%	Hard	
+262	
+Trips and Users    		27.7%	Hard	
+854	
+K-Similar Strings    		36.2%	Hard	
+87	
+Scramble String    		32.5%	Hard	
+1074	
+Number of Submatrices That Sum to Target    		59.4%	Hard	
+1153	
+String Transforms Into Another String    		33.6%	Hard	
+601	
+Human Traffic of Stadium    		38.6%	Hard	
+956	
+Tallest Billboard    		38.8%	Hard	
+1220	
+Count Vowels Permutation    		51.4%	Hard	
+1168	
+Optimize Water Distribution in a Village    		57.2%	Hard	
+391	
+Perfect Rectangle    		29.1%	Hard	
+330	
+Patching Array    		33.8%	Hard	
+1106	
+Parsing A Boolean Expression    		57.5%	Hard	
+1044	
+Longest Duplicate Substring    		23.7%	Hard	
+871	
+Minimum Number of Refueling Stops    		30.4%	Hard	
+587	
+Erect the Fence    		34.7%	Hard	
+1028	
+Recover a Tree From Preorder Traversal    		69.3%	Hard	
+847	
+Shortest Path Visiting All Nodes    		49.1%	Hard	
+425	
+Word Squares    		45.9%	Hard	
+145	
+Binary Tree Postorder Traversal    		51.1%	Hard	
+431	
+Encode N-ary Tree to Binary Tree    		67.3%	Hard	
+689	
+Maximum Sum of 3 Non-Overlapping Subarrays    		44.7%	Hard	
+818	
+Race Car    		37.2%	Hard	
+1178	
+Number of Valid Words for Each Puzzle    		36.1%	Hard	
+458	
+Poor Pigs    		46.5%	Hard	
+466	
+Count The Repetitions    		27.6%	Hard	
+903	
+Valid Permutations for DI Sequence    		46.6%	Hard	
+745	
+Prefix and Suffix Search    		32.2%	Hard	
+1088	
+Confusing Number II    		38.8%	Hard	
+782	
+Transform to Chessboard    		40.1%	Hard	
+352	
+Data Stream as Disjoint Intervals    		44.5%	Hard	
+968	
+Binary Tree Cameras    		36.4%	Hard	
+685	
+Redundant Connection II    		31.7%	Hard	
+668	
+Kth Smallest Number in Multiplication Table    		43.6%	Hard	
+768	
+Max Chunks To Make Sorted II    		47.1%	Hard	
+1092	
+Shortest Common Supersequence     		49.7%	Hard	
+857	
+Minimum Cost to Hire K Workers    		48.7%	Hard	
+936	
+Stamping The Sequence    		36.0%	Hard	
+499	
+The Maze III    		39.1%	Hard	
+471	
+Encode String with Shortest Length    		45.9%	Hard	
+568	
+Maximum Vacation Days    		38.9%	Hard	
+864	
+Shortest Path to Get All Keys    		38.8%	Hard	
+327	
+Count of Range Sum    		34.0%	Hard	
+630	
+Course Schedule III    		32.7%	Hard	
+1001	
+Grid Illumination    		34.9%	Hard	
+774	
+Minimize Max Distance to Gas Station    		44.1%	Hard	
+159	
+Longest Substring with At Most Two Distinct Characters    		48.2%	Hard	
+906	
+Super Palindromes    		30.8%	Hard	
+1216	
+Valid Palindrome III    		42.4%	Hard	
+52	
+N-Queens II    		54.5%	Hard	
+699	
+Falling Squares    		40.7%	Hard	
+850	
+Rectangle Area II    		46.2%	Hard	
+154	
+Find Minimum in Rotated Sorted Array II    		40.0%	Hard	
+719	
+Find K-th Smallest Pair Distance    		30.2%	Hard	
+996	
+Number of Squareful Arrays    		47.4%	Hard	
+660	
+Remove 9    		53.0%	Hard	
+265	
+Paint House II    		43.0%	Hard	
+308	
+Range Sum Query 2D - Mutable    		33.5%	Hard	
+715	
+Range Module    		37.0%	Hard	
+927	
+Three Equal Parts    		31.4%	Hard	
+1095	
+Find in Mountain Array    		34.7%	Hard	
+1187	
+Make Array Strictly Increasing    		40.5%	Hard	
+1172	
+Dinner Plate Stacks    		40.6%	Hard	
+786	
+K-th Smallest Prime Fraction    		41.4%	Hard	
+827	
+Making A Large Island    		44.2%	Hard	
+174	
+Dungeon Game    		28.4%	Hard	
+305	
+Number of Islands II    		40.8%	Hard	
+1231	
+Divide Chocolate    		50.2%	Hard	
+639	
+Decode Ways II    		25.7%	Hard	
+710	
+Random Pick with Blacklist    		32.4%	Hard	
+757	
+Set Intersection Size At Least Two    		37.2%	Hard	
+882	
+Reachable Nodes In Subdivided Graph    		39.2%	Hard	
+952	
+Largest Component Size by Common Factor    		28.2%	Hard	
+1157	
+Online Majority Element In Subarray    		33.9%	Hard	
+798	
+Smallest Rotation with Highest Score    		41.8%	Hard	
+732	
+My Calendar III    		57.3%	Hard	
+878	
+Nth Magical Number    		26.9%	Hard	
+1203	
+Sort Items by Groups Respecting Dependencies    		44.4%	Hard	
+891	
+Sum of Subsequence Widths    		30.4%	Hard	
+924	
+Minimize Malware Spread    		41.1%	Hard	
+803	
+Bricks Falling When Hit    		29.5%	Hard	
+446	
+Arithmetic Slices II - Subsequence    		31.4%	Hard	
+664	
+Strange Printer    		38.2%	Hard	
+940	
+Distinct Subsequences II    		40.8%	Hard	
+546	
+Remove Boxes    		39.8%	Hard	
+248	
+Strobogrammatic Number III    		37.9%	Hard	
+778	
+Swim in Rising Water    		49.8%	Hard	
+1235	
+Maximum Profit in Job Scheduling    		44.3%	Hard	
+1250	
+Check If It Is a Good Array    		50.2%	Hard	
+656	
+Coin Path    		27.7%	Hard	
+479	
+Largest Palindrome Product    		28.0%	Hard	
+902	
+Numbers At Most N Given Digit Set    		29.5%	Hard	
+644	
+Maximum Average Subarray II    		30.1%	Hard	
+629	
+K Inverse Pairs Array    		30.1%	Hard	
+1224	
+Maximum Equal Frequency    		31.7%	Hard	
+600	
+Non-negative Integers without Consecutive Ones    		33.3%	Hard	
+1199	
+Minimum Time to Build Blocks    		33.4%	Hard	
+1263	
+Minimum Moves to Move a Box to Their Target Location    		34.4%	Hard	
+483	
+Smallest Good Base    		34.7%	Hard	
+683	
+K Empty Slots    		34.9%	Hard	
+579	
+Find Cumulative Salary of an Employee    		35.1%	Hard	
+1012	
+Numbers With Repeated Digits    		35.5%	Hard	
+411	
+Minimum Unique Word Abbreviation    		35.5%	Hard	
+517	
+Super Washing Machines    		37.4%	Hard	
+879	
+Profitable Schemes    		37.9%	Hard	
+1067	
+Digit Count in Range    		38.4%	Hard	
+502	
+IPO    		38.6%	Hard	
+928	
+Minimize Malware Spread II    		39.5%	Hard	
+793	
+Preimage Size of Factorial Zeroes Function    		39.5%	Hard	
+972	
+Equal Rational Numbers    		40.4%	Hard	
+615	
+Average Salary: Departments VS Company    		40.8%	Hard	
+514	
+Freedom Trail    		41.4%	Hard	
+749	
+Contain Virus    		42.2%	Hard	
+1246	
+Palindrome Removal    		42.5%	Hard	
+1210	
+Minimum Moves to Reach Target with Rotations    		43.2%	Hard	
+1125	
+Smallest Sufficient Team    		44.8%	Hard	
+810	
+Chalkboard XOR Game    		45.6%	Hard	
+571	
+Find Median Given Frequency of Numbers    		45.8%	Hard	
+618	
+Students Report By Geography    		46.3%	Hard	
+1127	
+User Purchase Platform    		47.4%	Hard	
+711	
+Number of Distinct Islands II    		47.9%	Hard	
+1183	
+Maximum Number of Ones    		48.8%	Hard	
+899	
+Orderly Queue    		49.1%	Hard	
+1159	
+Market Analysis II    		49.2%	Hard	
+302	
+Smallest Rectangle Enclosing Black Pixels    		50.3%	Hard	
+1259	
+Handshakes That Don't Cross    		51.0%	Hard	
+569	
+Median Employee Salary    		51.5%	Hard	
+1097	
+Game Play Analysis V    		51.9%	Hard	
+960	
+Delete Columns to Make Sorted III    		52.9%	Hard	
+1194	
+Tournament Winners    		54.8%	Hard	
+1121	
+Divide Array Into Increasing Sequences    		55.0%	Hard	
+1147	
+Longest Chunked Palindrome Decomposition    		58.1%	Hard	
+1136	
+Parallel Courses    		59.3%	Hard	
+1225	
+Report Contiguous Dates    		62.2%	Hard	
+1255	
+Maximum Score Words Formed by Letters    		70.8%	Hard	
+1063	
+Number of Valid Subarrays    		71.6%	Hard	
