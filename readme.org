@@ -1,0 +1,5 @@
+* generating list
+1. copy html element
+2. tidy temp.html > temp1.html
+3. fill-domain.html temp1.html > temp2.html
+
