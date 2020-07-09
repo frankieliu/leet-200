@@ -564,6 +564,9 @@ var profilesKey = 'darksouls3_profiles';
             searchTag: '#weapons_search',
             contentTag: '#weapons_list h4, #weapons_list ul'// The outcome is that all <h4> tags are hidden while searching inside <ul> tags
         }), new Jets({
+            searchTag: '#google_search',
+            contentTag: '#google_list ul'
+        }), new Jets({
             searchTag: '#armors_search',
             contentTag: '#armors_list ul'
         })];
@@ -583,6 +586,10 @@ var profilesKey = 'darksouls3_profiles';
         $('#armors_search').keyup(function() {
             $('#armors_list').unhighlight();
             $('#armors_list').highlight($(this).val());
+        });
+        $('#google_search').keyup(function() {
+            $('#google_list').unhighlight();
+            $('#google_list').highlight($(this).val());
         });
     });
 
