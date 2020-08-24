@@ -7,7 +7,7 @@
   <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico?">
   <link rel="apple-touch-icon-precomposed" href="img/favicon-152.png">
   <link rel="mask-icon" href="img/pinned-tab-icon.svg" color="#000000">
-  <meta name="description" content="Leetcode checklist">
+  <meta name="description" content="Google checklist">
   <meta name="author" content="Frankie Liu">
   <meta name="mobile-web-app-capable" content="yes">
   <link id="bootstrap" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
@@ -29,8 +29,7 @@
       <!-- Collect the nav links, forms, and other content for toggling -->
       <div class="collapse navbar-collapse" id="nav-collapse">
         <ul class="nav navbar-nav">
-	  <li class="active"><a href="#tabFacebook" data-toggle="tab" data-target="#tabFacebook">Facebook Aug 2020</a></li>
-	  <li><a href="#tabGoogle" data-toggle="tab" data-target="#tabGoogle">Google July 2020</a></li> 
+					<li class="active"><a href="#tabGoogle" data-toggle="tab" data-target="#tabGoogle">Google July 2020</a></li> 
           <li><a href="#tabPlaythrough" data-toggle="tab" data-target="#tabPlaythrough,#btnHideCompleted">Playthrough</a></li>
           <li><a href="#tabChecklists" data-toggle="tab" data-target="#tabChecklists,#btnHideCompleted">Achievements</a></li>
           <li><a href="#tabWeaponsShields" data-toggle="tab" data-target="#tabWeaponsShields,#btnHideCompleted">Weapons/Shields</a></li>
@@ -72,144 +71,8 @@
         </div>
       </div>
 
-
-
- 
-<!-- FACEBOOK 080820 START -->
-<div class="tab-pane active" id="tabFacebook">
-<h2>Facebook Checklists <span id="facebook_overall_total"></span></h2>
-<ul class="table_of_contents">
-<li><a href="#FEasy">Easy</a> <span id="facebook_nav_totals_1"></span></li>
-<li><a href="#FMedium">Medium</a> <span id="facebook_nav_totals_2"></span></li>
-<li><a href="#FHard">Hard</a> <span id="facebook_nav_totals_3"></span></li>
-</ul>
-
-<div class="form-group">
-<input type="search" id="facebook_search" class="form-control" placeholder="Start typing to filter results..." />
-</div>
-
-<div id="facebook_list">
-<h3 id=""><a href="#FEasy_col" data-toggle="collapse" class="btn btn-primary btn-collapse btn-sm"></a><a href="http://darksouls3.wiki.fextralife.com/Helms">Easy</a> <span id="facebook_totals_1"></span></h3>
-<ul id="FEasy_col" class="collapse in">
-<li data-id="facebook_1_1"><a href="https://leetcode.com/problems/minimum-time-visiting-all-points">1395 Minimum Time Visiting All Points (79.6%)</a></li>
-<li data-id="facebook_1_2"><a href="https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays">1556 Make Two Arrays Equal by Reversing Sub-arrays (73.6%)</a></li>
-<li data-id="facebook_1_3"><a href="https://leetcode.com/problems/toeplitz-matrix">777 Toeplitz Matrix (65.1%)</a></li>
-<li data-id="facebook_1_4"><a href="https://leetcode.com/problems/uncommon-words-from-two-sentences">920 Uncommon Words from Two Sentences (63.4%)</a></li>
-<li data-id="facebook_1_5"><a href="https://leetcode.com/problems/average-of-levels-in-binary-tree">637 Average of Levels in Binary Tree (63.2%)</a></li>
-<li data-id="facebook_1_6"><a href="https://leetcode.com/problems/palindrome-permutation">266 Palindrome Permutation (61.9%)</a></li>
-<li data-id="facebook_1_7"><a href="https://leetcode.com/problems/monotonic-array">932 Monotonic Array (58.0%)</a></li>
-<li data-id="facebook_1_8"><a href="https://leetcode.com/problems/excel-sheet-column-number">171 Excel Sheet Column Number (56.1%)</a></li>
-<li data-id="facebook_1_9"><a href="https://leetcode.com/problems/n-th-tribonacci-number">1236 N-th Tribonacci Number (55.9%)</a></li>
-<li data-id="facebook_1_10"><a href="https://leetcode.com/problems/two-sum-iv-input-is-a-bst">653 Two Sum IV - Input is a BST (55.6%)</a></li>
-<li data-id="facebook_1_11"><a href="https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game">1400 Find Winner on a Tic Tac Toe Game (52.9%)</a></li>
-<li data-id="facebook_1_12"><a href="https://leetcode.com/problems/binary-tree-paths">257 Binary Tree Paths (51.6%)</a></li>
-<li data-id="facebook_1_13"><a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree">235 Lowest Common Ancestor of a Binary Search Tree (50.0%)</a></li>
-<li data-id="facebook_1_14"><a href="https://leetcode.com/problems/closest-binary-search-tree-value">270 Closest Binary Search Tree Value (48.6%)</a></li>
-<li data-id="facebook_1_15"><a href="https://leetcode.com/problems/number-of-days-between-two-dates">1274 Number of Days Between Two Dates (48.6%)</a></li>
-<li data-id="facebook_1_16"><a href="https://leetcode.com/problems/longest-continuous-increasing-subsequence">674 Longest Continuous Increasing Subsequence (45.9%)</a></li>
-<li data-id="facebook_1_17"><a href="https://leetcode.com/problems/reverse-vowels-of-a-string">345 Reverse Vowels of a String (44.2%)</a></li>
-<li data-id="facebook_1_18"><a href="https://leetcode.com/problems/convert-a-number-to-hexadecimal">405 Convert a Number to Hexadecimal (44.0%)</a></li>
-<li data-id="facebook_1_19"><a href="https://leetcode.com/problems/max-stack">716 Max Stack (42.6%)</a></li>
-<li data-id="facebook_1_20"><a href="https://leetcode.com/problems/palindrome-linked-list">234 Palindrome Linked List (39.3%)</a></li>
-<li data-id="facebook_1_21"><a href="https://leetcode.com/problems/factorial-trailing-zeroes">172 Factorial Trailing Zeroes (37.8%)</a></li>
-<li data-id="facebook_1_22"><a href="https://leetcode.com/problems/rotate-array">189 Rotate Array (34.8%)</a></li>
-<li data-id="facebook_1_23"><a href="https://leetcode.com/problems/read-n-characters-given-read4">157 Read N Characters Given Read4 (34.3%)</a></li>
-<li data-id="facebook_1_24"><a href="https://leetcode.com/problems/repeated-string-match">686 Repeated String Match (32.3%)</a></li>
-<li data-id="facebook_1_25"><a href="https://leetcode.com/problems/second-highest-salary">176 Second Highest Salary (31.7%)</a></li>
-<li data-id="facebook_1_26"><a href="https://leetcode.com/problems/valid-word-abbreviation">408 Valid Word Abbreviation (30.7%)</a></li>
-<li data-id="facebook_1_27"><a href="https://leetcode.com/problems/third-maximum-number">414 Third Maximum Number (30.5%)</a></li>
-<li data-id="facebook_1_28"><a href="https://leetcode.com/problems/buddy-strings">889 Buddy Strings (27.4%)</a></li>
-</ul>
-
-<h3 id="FMedium"><a href="#FMedium_col" data-toggle="collapse" class="btn btn-primary btn-collapse btn-sm"></a><a href="http://darksouls3.wiki.fextralife.com/Chest+Armor">Medium</a> <span id="facebook_totals_2"></span></h3>
-<ul id="FMedium_col" class="collapse in">
-<li data-id="facebook_2_1"><a href="https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree">1498 Find a Corresponding Node of a Binary Tree in a Clone of That Tree (83.7%)</a></li>
-<li data-id="facebook_2_2"><a href="https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal">1050 Construct Binary Search Tree from Preorder Traversal (78.5%)</a></li>
-<li data-id="facebook_2_3"><a href="https://leetcode.com/problems/all-elements-in-two-binary-search-trees">1427 All Elements in Two Binary Search Trees (76.2%)</a></li>
-<li data-id="facebook_2_4"><a href="https://leetcode.com/problems/minimum-add-to-make-parentheses-valid">957 Minimum Add to Make Parentheses Valid (73.8%)</a></li>
-<li data-id="facebook_2_5"><a href="https://leetcode.com/problems/distribute-coins-in-binary-tree">1021 Distribute Coins in Binary Tree (69.0%)</a></li>
-<li data-id="facebook_2_6"><a href="https://leetcode.com/problems/find-all-duplicates-in-an-array">442 Find All Duplicates in an Array (67.8%)</a></li>
-<li data-id="facebook_2_7"><a href="https://leetcode.com/problems/maximum-difference-between-node-and-ancestor">1092 Maximum Difference Between Node and Ancestor (66.1%)</a></li>
-<li data-id="facebook_2_8"><a href="https://leetcode.com/problems/custom-sort-string">807 Custom Sort String (65.6%)</a></li>
-<li data-id="facebook_2_9"><a href="https://leetcode.com/problems/max-area-of-island">695 Max Area of Island (62.8%)</a></li>
-<li data-id="facebook_2_10"><a href="https://leetcode.com/problems/nested-list-weight-sum-ii">364 Nested List Weight Sum II (62.8%)</a></li>
-<li data-id="facebook_2_11"><a href="https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses">1371 Minimum Remove to Make Valid Parentheses (62.6%)</a></li>
-<li data-id="facebook_2_12"><a href="https://leetcode.com/problems/sparse-matrix-multiplication">311 Sparse Matrix Multiplication (62.0%)</a></li>
-<li data-id="facebook_2_13"><a href="https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes">896 Smallest Subtree with all the Deepest Nodes (60.8%)</a></li>
-<li data-id="facebook_2_14"><a href="https://leetcode.com/problems/number-of-closed-islands">1380 Number of Closed Islands (60.5%)</a></li>
-<li data-id="facebook_2_15"><a href="https://leetcode.com/problems/tree-diameter">1177 Tree Diameter (60.1%)</a></li>
-<li data-id="facebook_2_16"><a href="https://leetcode.com/problems/remove-sub-folders-from-the-filesystem">1350 Remove Sub-Folders from the Filesystem (59.7%)</a></li>
-<li data-id="facebook_2_17"><a href="https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list">758 Convert Binary Search Tree to Sorted Doubly Linked List (59.2%)</a></li>
-<li data-id="facebook_2_18"><a href="https://leetcode.com/problems/minesweeper">529 Minesweeper (59.2%)</a></li>
-<li data-id="facebook_2_19"><a href="https://leetcode.com/problems/max-consecutive-ones-iii">1046 Max Consecutive Ones III (59.2%)</a></li>
-<li data-id="facebook_2_20"><a href="https://leetcode.com/problems/friend-circles">547 Friend Circles (58.7%)</a></li>
-<li data-id="facebook_2_21"><a href="https://leetcode.com/problems/next-greater-node-in-linked-list">1072 Next Greater Node In Linked List (58.0%)</a></li>
-<li data-id="facebook_2_22"><a href="https://leetcode.com/problems/car-pooling">1184 Car Pooling (56.7%)</a></li>
-<li data-id="facebook_2_23"><a href="https://leetcode.com/problems/next-greater-element-ii">503 Next Greater Element II (56.6%)</a></li>
-<li data-id="facebook_2_24"><a href="https://leetcode.com/problems/number-of-distinct-islands">694 Number of Distinct Islands (56.1%)</a></li>
-<li data-id="facebook_2_25"><a href="https://leetcode.com/problems/random-pick-index">398 Random Pick Index (56.1%)</a></li>
-<li data-id="facebook_2_26"><a href="https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph">323 Number of Connected Components in an Undirected Graph (56.1%)</a></li>
-<li data-id="facebook_2_27"><a href="https://leetcode.com/problems/implement-magic-dictionary">676 Implement Magic Dictionary (54.6%)</a></li>
-<li data-id="facebook_2_28"><a href="https://leetcode.com/problems/design-tic-tac-toe">348 Design Tic-Tac-Toe (54.5%)</a></li>
-<li data-id="facebook_2_29"><a href="https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix">378 Kth Smallest Element in a Sorted Matrix (54.4%)</a></li>
-<li data-id="facebook_2_30"><a href="https://leetcode.com/problems/koko-eating-bananas">907 Koko Eating Bananas (52.3%)</a></li>
-<li data-id="facebook_2_31"><a href="https://leetcode.com/problems/serialize-and-deserialize-bst">449 Serialize and Deserialize BST (52.1%)</a></li>
-<li data-id="facebook_2_32"><a href="https://leetcode.com/problems/minimum-area-rectangle-ii">1003 Minimum Area Rectangle II (50.9%)</a></li>
-<li data-id="facebook_2_33"><a href="https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons">452 Minimum Number of Arrows to Burst Balloons (49.6%)</a></li>
-<li data-id="facebook_2_34"><a href="https://leetcode.com/problems/construct-binary-tree-from-string">536 Construct Binary Tree from String (48.4%)</a></li>
-<li data-id="facebook_2_35"><a href="https://leetcode.com/problems/shortest-bridge">971 Shortest Bridge (48.4%)</a></li>
-<li data-id="facebook_2_36"><a href="https://leetcode.com/problems/path-sum-iii">437 Path Sum III (47.3%)</a></li>
-<li data-id="facebook_2_37"><a href="https://leetcode.com/problems/leftmost-column-with-at-least-a-one">1374 Leftmost Column with at Least a One (46.9%)</a></li>
-<li data-id="facebook_2_38"><a href="https://leetcode.com/problems/split-array-with-equal-sum">548 Split Array with Equal Sum (46.5%)</a></li>
-<li data-id="facebook_2_39"><a href="https://leetcode.com/problems/target-sum">494 Target Sum (46.2%)</a></li>
-<li data-id="facebook_2_40"><a href="https://leetcode.com/problems/web-crawler-multithreaded">1368 Web Crawler Multithreaded (46.0%)</a></li>
-<li data-id="facebook_2_41"><a href="https://leetcode.com/problems/binary-tree-vertical-order-traversal">314 Binary Tree Vertical Order Traversal (45.4%)</a></li>
-<li data-id="facebook_2_42"><a href="https://leetcode.com/problems/knight-dialer">972 Knight Dialer (45.3%)</a></li>
-<li data-id="facebook_2_43"><a href="https://leetcode.com/problems/partition-to-k-equal-sum-subsets">698 Partition to K Equal Sum Subsets (44.9%)</a></li>
-<li data-id="facebook_2_44"><a href="https://leetcode.com/problems/design-circular-queue">860 Design Circular Queue (43.8%)</a></li>
-<li data-id="facebook_2_45"><a href="https://leetcode.com/problems/closest-leaf-in-a-binary-tree">743 Closest Leaf in a Binary Tree (43.6%)</a></li>
-<li data-id="facebook_2_46"><a href="https://leetcode.com/problems/non-overlapping-intervals">435 Non-overlapping Intervals (43.5%)</a></li>
-<li data-id="facebook_2_47"><a href="https://leetcode.com/problems/add-bold-tag-in-string">616 Add Bold Tag in String (43.2%)</a></li>
-<li data-id="facebook_2_48"><a href="https://leetcode.com/problems/friends-of-appropriate-ages">852 Friends Of Appropriate Ages (42.7%)</a></li>
-<li data-id="facebook_2_49"><a href="https://leetcode.com/problems/diagonal-traverse-ii">1539 Diagonal Traverse II (42.5%)</a></li>
-<li data-id="facebook_2_50"><a href="https://leetcode.com/problems/longest-absolute-file-path">388 Longest Absolute File Path (41.8%)</a></li>
-<li data-id="facebook_2_51"><a href="https://leetcode.com/problems/increasing-triplet-subsequence">334 Increasing Triplet Subsequence (40.0%)</a></li>
-<li data-id="facebook_2_52"><a href="https://leetcode.com/problems/cheapest-flights-within-k-stops">803 Cheapest Flights Within K Stops (39.3%)</a></li>
-<li data-id="facebook_2_53"><a href="https://leetcode.com/problems/shortest-path-in-binary-matrix">1171 Shortest Path in Binary Matrix (38.2%)</a></li>
-<li data-id="facebook_2_54"><a href="https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition">1621 Number of Subsequences That Satisfy the Given Sum Condition (36.8%)</a></li>
-<li data-id="facebook_2_55"><a href="https://leetcode.com/problems/largest-bst-subtree">333 Largest BST Subtree (35.9%)</a></li>
-<li data-id="facebook_2_56"><a href="https://leetcode.com/problems/reported-posts-ii">1237 Reported Posts II (34.5%)</a></li>
-<li data-id="facebook_2_57"><a href="https://leetcode.com/problems/maximum-sum-circular-subarray">954 Maximum Sum Circular Subarray (33.7%)</a></li>
-<li data-id="facebook_2_58"><a href="https://leetcode.com/problems/nth-digit">400 Nth Digit (31.8%)</a></li>
-</ul>
-         
-<h3 id="FHard"><a href="#GHard_col" data-toggle="collapse" class="btn btn-primary btn-collapse btn-sm"></a><a href="http://darksouls3.wiki.fextralife.com/Gauntlets">Hard</a> <span id="facebook_totals_3"></span></h3>
-<ul id="GHard_col" class="collapse in">
-<li data-id="facebook_3_1"><a href="https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid">1527 Number of Ways to Paint N × 3 Grid (61.2%)</a></li>
-<li data-id="facebook_3_2"><a href="https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows">1550 Find the Kth Smallest Sum of a Matrix With Sorted Rows (59.6%)</a></li>
-<li data-id="facebook_3_3"><a href="https://leetcode.com/problems/closest-binary-search-tree-value-ii">272 Closest Binary Search Tree Value II (50.6%)</a></li>
-<li data-id="facebook_3_4"><a href="https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips">1037 Minimum Number of K Consecutive Bit Flips (46.8%)</a></li>
-<li data-id="facebook_3_5"><a href="https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays">689 Maximum Sum of 3 Non-Overlapping Subarrays (46.4%)</a></li>
-<li data-id="facebook_3_6"><a href="https://leetcode.com/problems/making-a-large-island">854 Making A Large Island (45.7%)</a></li>
-<li data-id="facebook_3_7"><a href="https://leetcode.com/problems/concatenated-words">472 Concatenated Words (43.8%)</a></li>
-<li data-id="facebook_3_8"><a href="https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps">1398 Number of Ways to Stay in the Same Place After Some Steps (43.2%)</a></li>
-<li data-id="facebook_3_9"><a href="https://leetcode.com/problems/stamping-the-sequence">973 Stamping The Sequence (43.0%)</a></li>
-<li data-id="facebook_3_10"><a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii">154 Find Minimum in Rotated Sorted Array II (41.6%)</a></li>
-<li data-id="facebook_3_11"><a href="https://leetcode.com/problems/similar-string-groups">869 Similar String Groups (38.6%)</a></li>
-<li data-id="facebook_3_12"><a href="https://leetcode.com/problems/range-sum-query-2d-mutable">308 Range Sum Query 2D - Mutable (35.9%)</a></li>
-<li data-id="facebook_3_13"><a href="https://leetcode.com/problems/all-oone-data-structure">432 All O`one Data Structure (32.5%)</a></li>
-<li data-id="facebook_3_14"><a href="https://leetcode.com/problems/super-egg-drop">923 Super Egg Drop (27.0%)</a></li>
-</ul>
-</div>
-</div>
-
-
-
-
-
-
-	<!-- GOOGLE 070820 START -->
-	<div class="tab-pane" id="tabGoogle">
+			<!-- GOOGLE 070820 START -->
+			<div class="tab-pane active" id="tabGoogle">
         <h2>Google Checklists <span id="google_overall_total"></span></h2>
         <ul class="table_of_contents">
           <li><a href="#GEasy">Easy</a> <span id="google_nav_totals_1"></span></li>
