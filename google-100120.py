@@ -1,5 +1,6 @@
 import json
 from collections import Counter
+import sys
 
 def json_read(filename):
     with open(filename,"r") as f:
@@ -59,7 +60,7 @@ def filter_questions(questions):
     # print(json.loads(lastSixMonths_notAC[0]['stats'])['acRate'])
     return lastSixMonths_notAC
 
-def print_li(lastSixMonths_notAC, company):
+def print_li(lastSixMonths_notAC,tag):
     last = sorted(lastSixMonths_notAC,key=lambda x:
             -float(json.loads(x['stats'])['acRate'][:-1]))
     easy = [x for x in last if x['difficulty'] == 'Easy']
@@ -67,25 +68,100 @@ def print_li(lastSixMonths_notAC, company):
     hard = [x for x in last if x['difficulty'] == 'Hard']
     leet_prefix = "https://leetcode.com/problems/"
     difficulty = [easy, medium, hard]
+   
+    # creating headers
+    lvl_headers = []
+    lvls = ["Easy","Medium","Hard"]
+    for i,lvl in enumerate(lvls):
+        lvl_headers.append(
+                f"<h3 id=\"{tag}{lvl}\">"+
+                f"<a href=\"#{tag}{lvl}_col\" "+
+                f"data-toggle=\"collapse\" "+
+                f"class=\"btn btn-primary btn-collapse btn-sm\"></a>"+
+                f"<a href=\"http://darksouls3.wiki.fextralife.com/Helms\">"
+                f"{lvl}</a> "+
+                f"<span id=\"{tag}_totals_{i}\"></span></h3>\n"+
+                f"<ul id=\"{tag}{lvl}_col\" class=\"collapse in\">")
+
     for i in range(len(difficulty)):
+        print(lvl_headers[i])
         for j,el in enumerate(difficulty[i]):
             li_item = (""+
-                    f"<li data-id=\"{company}_{i+1}_{j+1}\">"+
+                    f"<li data-id=\"{tag}_{i+1}_{j+1}\">"+
                     f"<a href=\"{leet_prefix}{el['titleSlug']}\">"+
                     f"{el['questionId']} {el['title']} "+
                     f"({json.loads(el['stats'])['acRate']})"+
                     "</a></li>")
             print(li_item)
+        print("</ul>\n")
+
+def print_tab(tag,Tag,title):
+    print(  " "*12+
+            f"<a href=\"#tab{Tag}\" data-toggle=\"tab\" "+
+            f"data-target=\"#tab{Tag}\">{title}</a>"
+            )
+
+def print_list_header(tag,Tag,title):
+    print(f"<!-- ---------------- {tag} ----------------- BEGIN -->")
+    print(f"<div class=\"tab-pane active\" id=\"tab{Tag}\">")
+    print(f"<h2>{title} Checklists<span id=\"{tag}_overall_total\"></span></h2>")
+    print(f"<ul class=\"table_of_contents\">")
+    print(
+            f"<li><a href=\"#{Tag}Easy\">Easy</a> "+
+            f"<span id=\"{tag}_nav_totals_1\"></span></li>")
+    print(
+            f"<li><a href=\"#{Tag}Medium\">Medium</a> "+
+            f"<span id=\"{tag}_nav_totals_2\"></span></li>")
+    print(
+            f"<li><a href=\"#{Tag}Hard\">Hard</a> "+
+            f"<span id=\"{tag}_nav_totals_3\"></span></li>")
+    print("</ul>\n")
+    print("<div class=\"form-group\">")
+    print(
+            f"<input type=\"search\" id=\"{tag}_search\" "+
+            f"class=\"form-control\" placeholder=\"Start typing to filter results...\" />")
+    print("</div>\n")
+    print(f"<div id=\"{tag}_list\">")
+
+def print_list_end(tag):
+    print("</div> <!-- list -->")
+    print("</div> <!-- tabpane -->")
+    print(f"<!-- ---------------- {tag} ----------------- END -->\n")
+
+def gen_tag(filename):
+    i = filename.find("-")
+    company = filename[0:i]
+    i += 1
+    month= ['Jan','Feb','Mar','Apr','May','Jun',
+            'Jul','Aug','Sep','Oct','Nov','Dec']
+    date = month[int(filename[i:i+2])-1] + " "
+    i += 2
+    date += str(filename[i:i+2]) + " "
+    i += 2
+    date += "20"+str(filename[i:i+2])
+    tag = filename[0:filename.find(".")]
+    Tag = tag.capitalize()
+    title = company.capitalize() + " " + date
+    return tag, Tag, title
 
 def main():
     filename = "facebook-100120.json"
+    if len(sys.argv) >= 2:
+        filename = sys.argv[1]
     jobj = json_read(filename)
     frequencies = get_frequencies(jobj)
     questions = get_questions(jobj)
     # print(len(questions))
     lastSix = filter_questions(questions)
     print(len(lastSix))
-    print_li(lastSix, 'facebook100120')
+    tag, Tag, title = gen_tag(filename) 
+    print(f"<!-- BEGIN CUT1 -->")
+    print_tab(tag,Tag,title)    
+    print(f"<!-- END CUT1 -->") 
+    print(f"<!-- BEGIN CUT2 -->")
+    print_list_header(tag,Tag,title)
+    print_li(lastSix, tag)
+    print_list_end(tag)
+    print(f"<!-- END CUT2 -->") 
 
 main()
-

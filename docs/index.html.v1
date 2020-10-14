@@ -29,14 +29,11 @@
       <!-- Collect the nav links, forms, and other content for toggling -->
       <div class="collapse navbar-collapse" id="nav-collapse">
         <ul class="nav navbar-nav">
-          <!-- BEGIN insert active tab -->
-          <li class="active">
-            <a href="#tabGoogle-100120" data-toggle="tab" data-target="#tabGoogle-100120">Google Oct 01 2020</a>
-          </li>
-          <!-- END insert active tab -->
-          <li><a href="#tabFacebook100120" data-toggle="tab" data-target="#tabFacebook100120">Facebook Oct 2020</a></li>
-          <li><a href="#tabFacebook" data-toggle="tab" data-target="#tabFacebook">Facebook Aug 2020</a></li>
+
+          <li class="active"><a href="#tabFacebook100120" data-toggle="tab" data-target="#tabFacebook100120">Facebook Oct 2020</a><li>
+	        <li><a href="#tabFacebook" data-toggle="tab" data-target="#tabFacebook">Facebook Aug 2020</a></li>
 	        <li><a href="#tabGoogle" data-toggle="tab" data-target="#tabGoogle">Google July 2020</a></li> 
+    
           <li><a href="#tabPlaythrough" data-toggle="tab" data-target="#tabPlaythrough,#btnHideCompleted">Playthrough</a></li>
           <li><a href="#tabChecklists" data-toggle="tab" data-target="#tabChecklists,#btnHideCompleted">Achievements</a></li>
           <li><a href="#tabWeaponsShields" data-toggle="tab" data-target="#tabWeaponsShields,#btnHideCompleted">Weapons/Shields</a></li>
@@ -77,76 +74,6 @@
           </label>
         </div>
       </div>
-
-<!-- insert new list -->
-<!-- ---------------- google-100120 ----------------- BEGIN -->
-<div class="tab-pane active" id="tabGoogle-100120">
-<h2>Google Oct 01 2020 Checklists<span id="google-100120_overall_total"></span></h2>
-<ul class="table_of_contents">
-<li><a href="#Google-100120Easy">Easy</a> <span id="google-100120_nav_totals_1"></span></li>
-<li><a href="#Google-100120Medium">Medium</a> <span id="google-100120_nav_totals_2"></span></li>
-<li><a href="#Google-100120Hard">Hard</a> <span id="google-100120_nav_totals_3"></span></li>
-</ul>
-
-<div class="form-group">
-<input type="search" id="google-100120_search" class="form-control" placeholder="Start typing to filter results..." />
-</div>
-
-<div id="google-100120_list">
-<h3 id="google-100120Easy"><a href="#google-100120Easy_col" data-toggle="collapse" class="btn btn-primary btn-collapse btn-sm"></a><a href="http://darksouls3.wiki.fextralife.com/Helms">Easy</a> <span id="google-100120_totals_0"></span></h3>
-<ul id="google-100120Easy_col" class="collapse in">
-<li data-id="google-100120_1_1"><a href="https://leetcode.com/problems/jewels-and-stones">782 Jewels and Stones (86.6%)</a></li>
-<li data-id="google-100120_1_2"><a href="https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation">1358 Find Positive Integer Solution for a Given Equation (69.2%)</a></li>
-<li data-id="google-100120_1_3"><a href="https://leetcode.com/problems/maximum-depth-of-n-ary-tree">774 Maximum Depth of N-ary Tree (68.9%)</a></li>
-<li data-id="google-100120_1_4"><a href="https://leetcode.com/problems/baseball-game">682 Baseball Game (64.6%)</a></li>
-<li data-id="google-100120_1_5"><a href="https://leetcode.com/problems/shortest-word-distance">243 Shortest Word Distance (61.2%)</a></li>
-<li data-id="google-100120_1_6"><a href="https://leetcode.com/problems/rearrange-spaces-between-words">1714 Rearrange Spaces Between Words (43.9%)</a></li>
-<li data-id="google-100120_1_7"><a href="https://leetcode.com/problems/count-primes">204 Count Primes (31.7%)</a></li>
-</ul>
-
-<h3 id="google-100120Medium"><a href="#google-100120Medium_col" data-toggle="collapse" class="btn btn-primary btn-collapse btn-sm"></a><a href="http://darksouls3.wiki.fextralife.com/Helms">Medium</a> <span id="google-100120_totals_1"></span></h3>
-<ul id="google-100120Medium_col" class="collapse in">
-<li data-id="google-100120_2_1"><a href="https://leetcode.com/problems/daily-temperatures">739 Daily Temperatures (63.8%)</a></li>
-<li data-id="google-100120_2_2"><a href="https://leetcode.com/problems/count-submatrices-with-all-ones">1628 Count Submatrices With All Ones (62.9%)</a></li>
-<li data-id="google-100120_2_3"><a href="https://leetcode.com/problems/design-a-leaderboard">1176 Design A Leaderboard (62.8%)</a></li>
-<li data-id="google-100120_2_4"><a href="https://leetcode.com/problems/meeting-scheduler">1165 Meeting Scheduler (53.4%)</a></li>
-<li data-id="google-100120_2_5"><a href="https://leetcode.com/problems/online-election">947 Online Election (50.7%)</a></li>
-<li data-id="google-100120_2_6"><a href="https://leetcode.com/problems/integer-break">343 Integer Break (50.6%)</a></li>
-<li data-id="google-100120_2_7"><a href="https://leetcode.com/problems/knight-probability-in-chessboard">688 Knight Probability in Chessboard (49.3%)</a></li>
-<li data-id="google-100120_2_8"><a href="https://leetcode.com/problems/alphabet-board-path">1238 Alphabet Board Path (48.9%)</a></li>
-<li data-id="google-100120_2_9"><a href="https://leetcode.com/problems/dice-roll-simulation">1343 Dice Roll Simulation (46.4%)</a></li>
-<li data-id="google-100120_2_10"><a href="https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference">1330 Longest Arithmetic Subsequence of Given Difference (45.5%)</a></li>
-<li data-id="google-100120_2_11"><a href="https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards">1538 Maximum Points You Can Obtain from Cards (44.3%)</a></li>
-<li data-id="google-100120_2_12"><a href="https://leetcode.com/problems/as-far-from-land-as-possible">1117 As Far from Land as Possible (43.8%)</a></li>
-<li data-id="google-100120_2_13"><a href="https://leetcode.com/problems/product-of-the-last-k-numbers">1477 Product of the Last K Numbers (43.3%)</a></li>
-<li data-id="google-100120_2_14"><a href="https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit">1549 Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit (43.1%)</a></li>
-<li data-id="google-100120_2_15"><a href="https://leetcode.com/problems/fruit-into-baskets">940 Fruit Into Baskets (42.6%)</a></li>
-<li data-id="google-100120_2_16"><a href="https://leetcode.com/problems/integer-replacement">397 Integer Replacement (33.1%)</a></li>
-<li data-id="google-100120_2_17"><a href="https://leetcode.com/problems/sum-of-subarray-minimums">943 Sum of Subarray Minimums (33.1%)</a></li>
-<li data-id="google-100120_2_18"><a href="https://leetcode.com/problems/sentence-screen-fitting">418 Sentence Screen Fitting (32.7%)</a></li>
-<li data-id="google-100120_2_19"><a href="https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum">1573 Find Two Non-overlapping Sub-arrays Each With Target Sum (32.3%)</a></li>
-</ul>
-
-<h3 id="google-100120Hard"><a href="#google-100120Hard_col" data-toggle="collapse" class="btn btn-primary btn-collapse btn-sm"></a><a href="http://darksouls3.wiki.fextralife.com/Helms">Hard</a> <span id="google-100120_totals_2"></span></h3>
-<ul id="google-100120Hard_col" class="collapse in">
-<li data-id="google-100120_3_1"><a href="https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome">1437 Minimum Insertion Steps to Make a String Palindrome (58.5%)</a></li>
-<li data-id="google-100120_3_2"><a href="https://leetcode.com/problems/the-most-similar-path-in-a-graph">1687 The Most Similar Path in a Graph (56.5%)</a></li>
-<li data-id="google-100120_3_3"><a href="https://leetcode.com/problems/word-abbreviation">527 Word Abbreviation (55.0%)</a></li>
-<li data-id="google-100120_3_4"><a href="https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza">1555 Number of Ways of Cutting a Pizza (53.1%)</a></li>
-<li data-id="google-100120_3_5"><a href="https://leetcode.com/problems/rectangle-area-ii">880 Rectangle Area II (47.9%)</a></li>
-<li data-id="google-100120_3_6"><a href="https://leetcode.com/problems/encode-string-with-shortest-length">471 Encode String with Shortest Length (47.5%)</a></li>
-<li data-id="google-100120_3_7"><a href="https://leetcode.com/problems/max-value-of-equation">1622 Max Value of Equation (44.2%)</a></li>
-<li data-id="google-100120_3_8"><a href="https://leetcode.com/problems/race-car">836 Race Car (39.2%)</a></li>
-<li data-id="google-100120_3_9"><a href="https://leetcode.com/problems/range-module">715 Range Module (39.0%)</a></li>
-<li data-id="google-100120_3_10"><a href="https://leetcode.com/problems/binary-tree-cameras">1008 Binary Tree Cameras (37.9%)</a></li>
-<li data-id="google-100120_3_11"><a href="https://leetcode.com/problems/frog-position-after-t-seconds">1493 Frog Position After T Seconds (34.0%)</a></li>
-<li data-id="google-100120_3_12"><a href="https://leetcode.com/problems/palindrome-partitioning-ii">132 Palindrome Partitioning II (30.5%)</a></li>
-<li data-id="google-100120_3_13"><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv">188 Best Time to Buy and Sell Stock IV (28.1%)</a></li>
-</ul>
-
-</div> <!-- list -->
-</div> <!-- tabpane -->
-<!-- ---------------- google-100120 ----------------- END -->
 
 
 <!-- FACEBOOK 100120 START -->
