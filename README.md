@@ -1,3 +1,3 @@
 # leet-200
 
-[link](page1)
+[link](pages/page1.md)
